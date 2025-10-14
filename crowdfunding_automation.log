@@ -1,0 +1,42 @@
+2025-10-14 12:59:44,529 - ERROR - Error parsing brand configuration: while parsing a block collection
+  in "brand_requirements.yaml", line 140, column 5
+expected <block end>, but found '<scalar>'
+  in "brand_requirements.yaml", line 140, column 22
+2025-10-14 13:00:10,891 - ERROR - Error parsing brand configuration: while parsing a block collection
+  in "brand_requirements.yaml", line 140, column 5
+expected <block end>, but found '<scalar>'
+  in "brand_requirements.yaml", line 140, column 22
+2025-10-14 13:00:33,296 - INFO - Validating brand configuration...
+2025-10-14 13:00:33,296 - INFO - Brand configuration validation passed
+2025-10-14 13:00:40,158 - INFO - Processing template: buyerpersona
+2025-10-14 13:00:40,159 - INFO - Template completed: buyerpersona
+2025-10-14 13:00:40,159 - INFO - Successfully processed: buyerpersona -> output/zack-ai/01_buyerpersona.md
+2025-10-14 13:00:40,159 - INFO - Template processed successfully: output/zack-ai/01_buyerpersona.md
+2025-10-14 13:00:54,206 - INFO - Starting bulk processing from template: buyerpersona
+2025-10-14 13:00:54,206 - INFO - Skipping completed template: buyerpersona
+2025-10-14 13:00:54,206 - INFO - Processing template: competitor-summary
+2025-10-14 13:00:54,206 - INFO - Template completed: competitor-summary
+2025-10-14 13:00:54,206 - INFO - Successfully processed: competitor-summary -> output/zack-ai/02_competitor-summary.md
+2025-10-14 13:00:54,206 - INFO - Template processed successfully: output/zack-ai/02_competitor-summary.md
+2025-10-14 13:00:54,206 - INFO - Processing template: product-description
+2025-10-14 13:00:54,207 - INFO - Template completed: product-description
+2025-10-14 13:00:54,207 - INFO - Successfully processed: product-description -> output/zack-ai/03_product-description.md
+2025-10-14 13:00:54,207 - INFO - Template processed successfully: output/zack-ai/03_product-description.md
+2025-10-14 13:00:54,207 - INFO - Processing template: Product-positioning-summary
+2025-10-14 13:00:54,208 - INFO - Template completed: Product-positioning-summary
+2025-10-14 13:00:54,208 - INFO - Successfully processed: Product-positioning-summary -> output/zack-ai/04_Product-positioning-summary.md
+2025-10-14 13:00:54,208 - INFO - Template processed successfully: output/zack-ai/04_Product-positioning-summary.md
+2025-10-14 13:00:54,208 - INFO - Processing template: mds
+2025-10-14 13:00:54,209 - INFO - Template completed: mds
+2025-10-14 13:00:54,209 - INFO - Successfully processed: mds -> output/zack-ai/05_mds.md
+2025-10-14 13:00:54,209 - INFO - Template processed successfully: output/zack-ai/05_mds.md
+2025-10-14 13:00:54,209 - INFO - Processing template: voice-and-tone
+2025-10-14 13:00:54,210 - INFO - Template completed: voice-and-tone
+2025-10-14 13:00:54,210 - INFO - Successfully processed: voice-and-tone -> output/zack-ai/06_voice-and-tone.md
+2025-10-14 13:00:54,210 - INFO - Template processed successfully: output/zack-ai/06_voice-and-tone.md
+2025-10-14 13:00:54,210 - INFO - Processing template: landingpage-copy
+2025-10-14 13:00:54,211 - ERROR - Validation failed for landingpage-copy: ['Unvalidated price found: $500', 'Unvalidated price found: $99', 'Unvalidated price found: $50', 'Unvalidated price found: $100', 'Unvalidated price found: $149', 'Unvalidated price found: $500', 'Unvalidated price found: $99', 'Unvalidated price found: $50', 'Unvalidated price found: $100', 'Unvalidated price found: $149', 'Unvalidated price found: $500', 'Unvalidated price found: $99', 'Unvalidated price found: $50', 'Unvalidated price found: $100', 'Unvalidated price found: $149', 'Missing required disclaimer: Requires adult supervision for setup', 'Missing required disclaimer: Internet connection required for updates', 'Missing required disclaimer: Battery life varies with usage', 'Missing required disclaimer: Content subject to parental approval']
+2025-10-14 13:00:54,211 - ERROR - Template processing failed: Validation failed for landingpage-copy: ['Unvalidated price found: $500', 'Unvalidated price found: $99', 'Unvalidated price found: $50', 'Unvalidated price found: $100', 'Unvalidated price found: $149', 'Unvalidated price found: $500', 'Unvalidated price found: $99', 'Unvalidated price found: $50', 'Unvalidated price found: $100', 'Unvalidated price found: $149', 'Unvalidated price found: $500', 'Unvalidated price found: $99', 'Unvalidated price found: $50', 'Unvalidated price found: $100', 'Unvalidated price found: $149', 'Missing required disclaimer: Requires adult supervision for setup', 'Missing required disclaimer: Internet connection required for updates', 'Missing required disclaimer: Battery life varies with usage', 'Missing required disclaimer: Content subject to parental approval']
+2025-10-14 13:00:54,211 - ERROR - Stopping bulk processing due to failure in: landingpage-copy
+2025-10-14 13:00:54,211 - INFO - Bulk processing completed: 6/15 templates successful
+2025-10-14 13:00:54,211 - INFO - Processing report generated: output/zack-ai/processing_report.md

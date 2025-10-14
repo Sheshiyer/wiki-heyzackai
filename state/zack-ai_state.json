@@ -1,0 +1,18 @@
+{
+  "brand_name": "zack-ai",
+  "created_at": "2025-10-14T13:00:40.158174",
+  "last_updated": "2025-10-14T13:00:54.210332",
+  "completed_templates": [
+    "buyerpersona",
+    "competitor-summary",
+    "product-description",
+    "Product-positioning-summary",
+    "mds",
+    "voice-and-tone"
+  ],
+  "current_template": "landingpage-copy",
+  "processing_context": {
+    "key_messaging": "[List every reason your audience would want your product - functional, emotional, self-expressive. Why is your product indispensable to them? What problems/pain points does your product solve for your target audience?]"
+  },
+  "errors": []
+}
