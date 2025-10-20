@@ -12,11 +12,11 @@
 - Screen‑free conversation that builds empathy, AI‑guided learning, and everyday language confidence.
 
 ## Buy‑Box Bullets
+- Multilingual conversation and stories for daily practice.
+- Adaptive long‑term memory that grows with your child.
+- Parent mood summaries from chats (opt‑in, privacy‑first).
 - Screen‑free conversations that spark curiosity.
 - Emotion‑aware responses to build empathy.
-- Personalized AI learning that grows with your child.
-- Multilingual stories for daily language practice.
-- Parent‑controlled, age‑appropriate experiences.
 
 ## Description (HTML)
 ```html
@@ -31,6 +31,7 @@
   <li><strong>Language Proficiency:</strong> Multilingual voices and short daily practice sessions.</li>
   <li><strong>Conversational Intelligence:</strong> Turn‑taking, questioning, and storytelling for confident communication.</li>
 </ul>
+<p><small>Extended languages available; see Supported Languages for coverage.</small></p>
 
 <h3>What Zack Does</h3>
 <ul>
@@ -43,10 +44,17 @@
 <h3>Key Features</h3>
 <ul>
   <li>Advanced conversational AI with emotion recognition.</li>
+  <li>Adaptive long‑term memory for personalized learning.</li>
+  <li>Multilingual conversation (English, French, Spanish; extended languages available).</li>
+  <li>Interactive games for play‑based learning.</li>
+  <li>Multiple roles: teacher, storyteller, friend, helper.</li>
+  <li>Voice clone (parent‑approved, opt‑in).</li>
+  <li>Learning Guide for structured development.</li>
+  <li>Emotional friendship and supportive companionship.</li>
+  <li>Child‑safe news briefs (broadcast).</li>
+  <li>Parent mood summaries from chats (opt‑in, privacy‑first).</li>
   <li>Animated LED eyes for lifelike interaction.</li>
-  <li>Adaptive long‑term memory and personalized responses.</li>
-  <li>Multilingual support (English, French, Spanish).</li>
-  <li>Companion app with parental controls and customization.</li>
+  <li>Parent controls and customization.</li>
 </ul>
 
 <h3>Ideal For</h3>
@@ -60,6 +68,7 @@
 <ul>
   <li>Age‑appropriate content with parent‑controlled settings.</li>
   <li>Optional smart home features can be enabled by parents.</li>
+  <li>Compliance: CE, FCC, REACH, RoHS.</li>
 </ul>
 
 <h3>In the Box</h3>

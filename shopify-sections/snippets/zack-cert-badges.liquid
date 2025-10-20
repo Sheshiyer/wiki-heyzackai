@@ -1,0 +1,17 @@
+{%- comment -%}
+Snippet: Zack — Certification badges
+Usage: {% render 'zack-cert-badges', badges: section.settings.badges | default: "CE,FCC,REACH,RoHS,COPPA,CPSIA" | split: ',' %}
+{%- endcomment -%}
+
+{%- assign badge_list = badges -%}
+{%- if badge_list == blank -%}
+  {%- assign badge_list = "CE,FCC,REACH,RoHS,COPPA,CPSIA" | split: ',' -%}
+{%- endif -%}
+<div class="z-badges" role="list" aria-label="Certifications">
+  {%- for label in badge_list -%}
+    {%- assign cleaned = label | strip -%}
+    {%- if cleaned != '' -%}
+      <span class="z-badge" role="listitem">{{ cleaned }}</span>
+    {%- endif -%}
+  {%- endfor -%}
+</div>

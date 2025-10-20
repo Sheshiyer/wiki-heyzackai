@@ -3,6 +3,45 @@
 
 **Document Purpose**: This document serves as the single source of truth for all Zack AI product details, specifications, messaging, and requirements for consistent product listings, marketing materials, and communications.
 
+### **Quick Reference Index**
+- **Product**: Zack AI Companion
+- **Category**: Premium AI Educational Companion
+- **Tagline**: "Your Child's First AI Friend"
+- **Retail range**: $149–299 (see Pricing Strategy)
+- **Connectivity**: Wi‑Fi 2.4G (2.4–2.485 GHz), Bluetooth 5.0
+- **Dimensions**: 280 × 240 mm (approx. 11.0 × 9.45 in)
+- **Weight**: 345 g (approx. 0.76 lb)
+- **Packaging**: 25 × 20 × 35 cm (approx. 9.84 × 7.87 × 13.78 in)
+- **Compliance**: CE, FCC, REACH, RoHS, COPPA, CPSIA
+- **Variants**: Blue, Light Pink, Gradient Purple‑Pink, Starlight Grey, Yellow
+- **Languages**: Core + 40+ extended (see Supported Languages)
+- **Key Paths**: See References & Asset Map
+
+### **Table of Contents**
+- Product Overview
+- Technical Specifications
+- Software Features
+- Use Cases
+- Target Audience
+- Competitive Positioning
+- Pricing Strategy
+- Marketing Messaging Guidelines
+- Compliance & Safety Requirements
+- Packaging & Accessories
+- Supported Languages
+- Product Listing Requirements
+- Content Creation Guidelines
+- Competitive Intelligence Summary
+- Campaign‑Specific Information
+- Validation Checklist
+- Key Performance Indicators
+- Usage Instructions
+- References & Asset Map
+- Variant & Image Map
+- Reusable Copy Blocks
+- Announcement Banner Microcopy
+- Change Log
+
 ---
 
 ## **Product Overview**
@@ -30,34 +69,50 @@
 ## **Technical Specifications**
 
 ### **Physical Specifications**
-- **Dimensions**: 8 x 6 x 4 inches
-- **Weight**: 1.2 lbs
+- **Product Size**: 280 × 240 mm (approx. 11.0 × 9.45 in)
+- **Weight**: 345 g (approx. 0.76 lb)
 - **Materials**: Child-safe ABS plastic, soft-touch silicone
 - **Colors**: Blue, Pink, Green, Purple
 - **Form Factor**: Premium cylindrical design with natural material accents
 
-### **Technical Capabilities**
-- **Battery Life**: 8-12 hours continuous use
-- **Charging**: USB-C, 2-hour full charge
-- **Connectivity**: Wi-Fi 802.11ac, Bluetooth 5.0
+### **Hardware & Connectivity**
+- **Battery**: 1400mAh lithium-ion battery pack
+- **Charging**: USB; approx. 5 hours to full charge
+- **Connectivity**: Wi‑Fi 2.4G (2.4–2.485 GHz), Bluetooth 5.0
 - **Storage**: 32GB internal
-- **Processor**: ARM Cortex-A55 quad-core
+- **Processor**: Quad‑core processor (architecture not disclosed)
 - **Memory**: 4GB RAM
 - **Sensors**: Microphone array, Camera, Touch sensors, Accelerometer
+- **Speaker**: 8V 3W; **Speaker driving**: 5Q3W
+- **Audio Collection**: 32 kHz sampling
+- **Status Light**: Power indicator light (1)
+- **Key/Controls**: 1 button (cancel binding and wake up)
+- **Firmware Upgrade**: OTA (over‑the‑air)
 
 ### **Software Features**
-- Age-appropriate AI conversations
+- Emotional expression that adapts to the user's mood
+- Multilingual conversation (see Supported Languages)
+- Interacts with educational and play‑based games
+- Long‑term memory for learning progress and preferences
+- Multiple roles (teacher, storyteller, friend, helper)
+- Voice clone (with parental consent)
+- Learning Guide for structured development
+- Emotional friendship and supportive companionship
+- Broadcasts child‑safe, curated news briefs
+- Summarizes chat messages for parents to understand children's moods (parental awareness; opt‑in)
+- Age‑appropriate AI conversations
 - Educational games and activities
 - Bedtime stories and lullabies
-- Emotional support and companionship
 - Parental controls and monitoring
 - Offline mode for privacy
-- Multi-language support (English, Spanish, French)
 - Advanced conversational AI with emotion recognition
 - LED animated eyes for lifelike interaction
-- Memory-based personality development
-- Voice cloning capabilities
 - Interactive storytelling with multiple voices
+
+### **Use Cases**
+- Indoor family use
+- Gift‑giving occasions
+- Learning activities and play‑based engagement
 
 ---
 
@@ -201,6 +256,7 @@
 - FCC certified
 - CPSIA compliant
 - RoHS compliant
+- REACH compliant
 
 ### **Privacy Standards**
 - GDPR compliant
@@ -223,6 +279,24 @@
 
 ---
 
+## **Packaging & Accessories**
+- **Packaging Size**: 25 × 20 × 35 cm (approx. 9.84 × 7.87 × 13.78 in)
+- **Accessories Included**: Charging cable; User manual
+- **Weight of Packing**: 8.55 kg per box (approx. 18.85 lb)
+
+---
+
+## **Supported Languages**
+
+- Core languages (UI & voice): English, Spanish (Mexico), French, German, Italian, Portuguese (Brazil), Chinese (Mandarin), Japanese, Korean, Hindi.
+- Extended languages (voice): Arabic, Arabic (Saudi/Gulf), Armenian, Azerbaijani, Bengali, Bulgarian, Burmese, Croatian, Czech, Dutch, Estonian, Filipino (Tagalog), Finnish, Greek, Gujarati (India), Hungarian, Indonesian, Javanese (Latin, Indonesia), Kazakh, Lao, Latvian, Macedonian, Malay (Malaysia), Mongolian, Nepali, Norwegian, Persian (Farsi, Iran), Portuguese (Portugal), Romanian, Russian, Serbian (Cyrillic), Slovak, Spanish (Argentina), Spanish (Spain), Swahili (Kenya), Swedish, Tamil (India), Telugu (India), Ukrainian, Uzbek (Latin).
+
+- Dialect notes: Spanish variants (Argentina, Mexico, Spain); Portuguese variants (Brazil, Portugal); Arabic (Gulf/Saudi).
+
+- Coverage: 40+ languages; contact support for the latest full list.
+
+---
+
 ## **Product Listing Requirements**
 
 ### **Essential Elements for All Listings**
@@ -239,7 +313,7 @@
 - **Educational Outcomes**: Curriculum-aligned learning content
 - **Emotional Intelligence**: Social-emotional development support
 - **Parental Controls**: Monitoring and customization capabilities
-- **Multi-Language Support**: English, Spanish, French capabilities
+- **Multi-Language Support**: Extensive language capabilities (see Supported Languages)
 
 ### **Pricing Presentation**
 - **Value Emphasis**: Compare to educational services and tutoring
@@ -366,7 +440,58 @@ Every marketing initiative should include:
 
 ---
 
-**Document Version**: 1.0  
+## **References & Asset Map**
+- **Shopify listing copy**: `03-compelling-copy/shopify-product-copy-v2.md`
+- **Listing readiness checklist**: `02-product-detailing/listing-readiness-checklist.md`
+- **Buyer persona (full)**: `01-market-understanding/zack-ai-buyer-persona.md`
+- **Buyer persona (summary)**: `01-market-understanding/zack-ai-buyer-persona-summary.md`
+- **Competitive positioning**: `01-market-understanding/zack-ai-competitive-positioning.md`
+- **Competitive analysis (Alibaba extract)**: `competitive_analysis_alibaba_extract.md`
+- **Brand requirements**: `brand_requirements.yaml`
+- **Prompt templates**: `prompt-templates/` (product-description.md, landingpage-copy.md, campaign-page-copy.md, pressrelease-copy.md, voice-and-tone.md)
+- **Assets (variants)**: `assets/zackaicolorvariants/`
+
+## **Variant & Image Map**
+- **Blue** — `assets/zackaicolorvariants/blue.png` — Alt: Zack AI — Blue (smart plush companion)
+- **Light Pink** — `assets/zackaicolorvariants/light-pink.png` — Alt: Zack AI — Light Pink (smart plush companion)
+- **Gradient Purple‑Pink** — `assets/zackaicolorvariants/gradient-purple-pink.png` — Alt: Zack AI — Gradient Purple‑Pink (smart plush companion)
+- **Starlight Grey** — `assets/zackaicolorvariants/starlight-grey.png` — Alt: Zack AI — Starlight Grey (smart plush companion)
+- **Yellow** — `assets/zackaicolorvariants/yellow.png` — Alt: Zack AI — Yellow (smart plush companion)
+- **All variants** — `assets/zackaicolorvariants/all.png`
+
+## **Reusable Copy Blocks (Canonical Snapshot)**
+- **PDP Title**: Zack AI — Screen‑Free Learning Companion
+- **Hero Headlines**: Curiosity, Unplugged · Screen‑Free Intelligence · Talk & Learn
+- **Sub‑headline**: Screen‑free conversation that builds empathy, AI‑guided learning, and everyday language confidence.
+- **Buy‑Box Bullets**:
+  - Multilingual conversation and stories for daily practice.
+  - Adaptive long‑term memory that grows with your child.
+  - Parent mood summaries from chats (opt‑in, privacy‑first).
+  - Screen‑free conversations that spark curiosity.
+  - Emotion‑aware responses to build empathy.
+- **SEO Metadata**:
+  - Title: Zack AI — Screen‑Free Learning Companion for Kids
+  - Meta description: Zack AI helps children learn and grow through screen‑free conversation, stories, and language practice. Emotion‑aware, multilingual, and parent‑controlled — a smart plush companion designed for modern families.
+  - Handle: `zack-ai-learning-companion`
+- **Description Note**: Extended languages available; see Supported Languages for coverage.
+
+## **Announcement Banner Microcopy**
+- Pre‑order now — delivers before the holidays for kids
+- Order today — arrives before the holidays
+- Mobile short: Arrives before holidays
+- CTA link text: Pre‑Order Now · Reserve Yours
+
+## **Quick Admin References**
+- **Product type**: AI Learning Companion · **Vendor**: Heyzack AI · **Collections**: Home page
+- **Tags**: ai companion, screen‑free, educational, emotional intelligence, multilingual, conversational, privacy‑first, bedtime stories, interactive, gift idea, kids
+- **Variants**: Blue, Light Pink, Gradient Purple‑Pink, Starlight Grey, Yellow
+
+## **Change Log**
+- 2025‑10‑19: Added Bluetooth 5.0; inch/pound conversions; normalized languages; updated buy‑box; description languages note; created References/Asset Map and Reusable Copy Blocks; aligned connectivity across assets.
+
+---
+
+**Document Version**: 1.2  
 **Last Updated**: October 2025  
 **Next Review**: Monthly or upon product updates
 

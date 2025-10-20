@@ -23,7 +23,7 @@ product_specifications:
   technical_specs:
     battery_life: "8-12 hours continuous use"
     charging: "USB-C, 2-hour full charge"
-    connectivity: "Wi-Fi 802.11ac, Bluetooth 5.0"
+    connectivity: "Wi-Fi 2.4G, Bluetooth 5.0"
     storage: "32GB internal"
     processor: "ARM Cortex-A55 quad-core"
     memory: "4GB RAM"

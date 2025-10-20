@@ -1,0 +1,23 @@
+{%- comment -%}
+Snippet: Zack — Pre‑order CTA
+Usage: {% render 'zack-cta', product_handle: settings.product_handle, text: 'Pre‑Order Now', variant_id: settings.variant_id %}
+Fallback: uses page product if present; otherwise all_products[product_handle]
+{%- endcomment -%}
+
+{%- assign p = product -%}
+{%- if p == nil and product_handle != blank -%}
+  {%- assign p = all_products[product_handle] -%}
+{%- endif -%}
+{%- assign btn_text = text | default: 'Pre‑Order Now' -%}
+{%- if p -%}
+  {%- assign v = p.selected_or_first_available_variant -%}
+  {%- if variant_id != blank -%}
+    {%- assign v = p.variants | where: 'id', variant_id | first | default: v -%}
+  {%- endif -%}
+  <form method="post" action="/cart/add" class="z-cta-form" enctype="multipart/form-data">
+    <input type="hidden" name="id" value="{{ v.id }}">
+    <button type="submit" class="z-btn z-btn--primary z-btn--full">{{ btn_text }}</button>
+  </form>
+{%- else -%}
+  <a href="/cart" class="z-btn z-btn--primary z-btn--full">{{ btn_text }}</a>
+{%- endif -%}
