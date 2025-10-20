@@ -10,9 +10,8 @@ brand_identity:
 product_specifications:
   # CRITICAL: These must never be hallucinated
   price_tiers:
-    early_bird: "$199"
-    standard: "$249" 
-    retail: "$299"
+    mrp: "$199"
+    preorder_backer: "$99"
   
   physical_specs:
     dimensions: "8 x 6 x 4 inches"
@@ -150,30 +149,15 @@ campaign_specifics:
   manufacturing_location: "Taiwan (certified facilities)"
   
   reward_tiers:
-    super_early_bird:
-      price: "$149"
-      quantity: "100 units"
-      savings: "$100 off retail"
+    backer_deal:
+      price: "$99"
+      quantity: "limited"
+      savings: "$100 off MRP"
     
-    early_bird:
-      price: "$179" 
-      quantity: "500 units"
-      savings: "$70 off retail"
-    
-    standard:
+    mrp:
       price: "$199"
       quantity: "unlimited"
-      savings: "$50 off retail"
-    
-    family_pack:
-      price: "$349"
-      quantity: "200 units"
-      includes: "2 Zack AI units + accessories"
-    
-    educator_pack:
-      price: "$899"
-      quantity: "50 units"
-      includes: "5 units + classroom curriculum"
+      savings: "Standard price"
 
 risk_mitigation:
   # Address common crowdfunding concerns

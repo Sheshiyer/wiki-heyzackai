@@ -1,26 +1,30 @@
 # Zack AI Shopify Listing Copy (Refined)
 
 ## Title
+
 - Zack AI — Screen‑Free Playtime
 
-## Hero Headline (2–3 words, no “Meet Zack”) 
+## Hero Headline (2–3 words, no “Meet Zack”)
+
 - Curiosity, Unplugged
 - Screen‑Free Playtime
 - Talk & Learn
 
 ## Sub‑headline (bridges 5 domains)
+
 - Screen‑free playtime that builds empathy, AI‑guided learning, and everyday language confidence.
 
 ## Buy‑Box Bullets
+
 - Multilingual conversation and stories for daily practice.
 - Adaptive long‑term memory that grows with your child.
 - Parent mood summaries from chats (opt‑in, privacy‑first).
 - Screen‑free playtime that sparks curiosity.
 - Emotion‑aware responses to build empathy.
 
-## Description (HTML)
+## Description (HTML)`<h2>`Screen‑Free Playtime Through Conversation`</h2>`
+
 ```html
-<h2>Screen‑Free Playtime Through Conversation</h2>
 <p>Zack AI is a warm, conversational companion that listens, learns, and plays. With emotion recognition and animated eyes, Zack turns everyday questions into discovery — from friendly explanations to imaginative stories and gentle language practice.</p>
 
 <h3>How Zack Bridges Key Domains</h3>
@@ -84,20 +88,24 @@
 ```
 
 ## Keyword Placement Strategy (refined)
+
 - Avoid “smart plush” in the title and hero.
 - Use “smart plush” once in the meta description and image alt text for SEO.
 - Primary focus: “Screen‑Free Playtime”, “Conversational AI for Kids”.
 
 ## SEO Metadata
+
 - Title: Zack AI — Screen‑Free Playtime for Kids
 - Meta description: Zack AI helps children learn and grow through screen‑free playtime — conversation, stories, and language practice. Emotion‑aware, multilingual, and parent‑controlled — a smart plush companion designed for modern families.
 - Handle: `zack-ai-learning-companion`
 
 ## Variants
+
 - Option: Color — Blue, Light Pink, Gradient Purple‑Pink, Starlight Grey, Yellow
 - Selector microcopy: “Choose a color”
 
 ## Image Alt Text
+
 - Zack AI — Blue (smart plush companion)
 - Zack AI — Light Pink (smart plush companion)
 - Zack AI — Gradient Purple‑Pink (smart plush companion)
@@ -106,10 +114,12 @@
 - Zack AI — All color variants
 
 ## Tags
+
 - ai companion, screen‑free, educational, emotional intelligence, multilingual, conversational, privacy‑first, bedtime stories, interactive, gift idea, kids
 
 ## CTA & Micro‑Urgency
+
 - Primary: Add to cart
 - Secondary: Buy with Shop
 - Micro‑urgency: Ships in 1–3 business days
-","}​```}**}**??,
+  ","}```}**}**??,

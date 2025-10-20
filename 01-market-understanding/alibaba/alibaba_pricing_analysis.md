@@ -47,20 +47,15 @@ Based on similar products in the AI companion market and the technical specifica
 - **Value Proposition**: 3-5x price premium for 10x capability improvement
 
 ##### **Tiered Pricing Structure**
-1. **Zack AI Core**: $149
-   - Basic AI companion features
-   - Educational content library
-   - Privacy-protected interactions
+**Unified Pricing Model (Canonical)**
 
-2. **Zack AI Plus**: $199
-   - Advanced learning algorithms
-   - Personalized curriculum
-   - Parent dashboard
+- Zack AI Companion — MRP: $199
+- Pre‑order/Backer Deal — $99
 
-3. **Zack AI Pro**: $299
-   - Full smart home integration
-   - Advanced emotional intelligence
-   - Premium support & updates
+Rationale:
+- Simplifies value perception and purchasing decisions
+- Eliminates tier confusion across docs and code
+- Aligns Indiegogo/Kickstarter messaging and perk structures
 
 ### **Pricing Psychology Insights**
 
@@ -77,9 +72,9 @@ Based on similar products in the AI companion market and the technical specifica
 ### **Market Entry Recommendations**
 
 #### **Launch Pricing Strategy**
-1. **Early Bird Pricing**: $129 (limited time, creates urgency)
-2. **Standard Retail**: $149 (maintains premium positioning)
-3. **Bundle Options**: $199 for accessories/extended warranty
+- MRP: $199
+- Pre-order/Backer Deal: $99 (Indiegogo/Kickstarter)
+- No early-bird tiers. Bundles/add-ons priced separately without altering base product price.
 
 #### **Competitive Response Preparation**
 - **Price Anchoring**: Establish premium category before competitors respond

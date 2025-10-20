@@ -170,11 +170,10 @@ The AI companion toy market is dominated by **mass-market, feature-heavy product
 **Value Proposition:**
 *"The first AI companion designed for families who demand the best - superior learning outcomes, uncompromising privacy, and beautiful design that enhances your home."*
 
-#### **Pricing Strategy:**
-- **Premium Tier**: $299-499 (3-5x competitive pricing)
-- **Subscription Model**: $9.99/month for premium content and features
-- **Educational Licensing**: $199/unit for schools and institutions
-- **Customization Premium**: $50-100 for personalization options
+#### **Pricing Strategy (Canonical):**
+- **MRP**: $199
+- **Pre‑order/Backer Deal**: $99
+- **Launch policy**: No tiered pricing or subscription pricing at launch; educational/institutional pricing aligns with MRP.
 
 ### **2. Differentiation Strategy**
 
@@ -223,13 +222,13 @@ The AI companion toy market is dominated by **mass-market, feature-heavy product
 #### **Phase 1: Premium Launch**
 - **Target**: High-income early adopters in tech-forward markets
 - **Channels**: Direct-to-consumer, premium retailers, educational conferences
-- **Pricing**: $399 launch price with early-bird discounts
+- **Pricing**: Pre‑order/Backer Deal $99; MRP $199
 - **Marketing**: Influencer partnerships, educational endorsements
 
 #### **Phase 2: Market Expansion**
 - **Target**: Broader premium parent segment
 - **Channels**: Expanded retail, international markets
-- **Pricing**: $299 mainstream premium price
+- **Pricing**: MRP $199
 - **Marketing**: Mass premium advertising, retail partnerships
 
 #### **Phase 3: Educational Market**

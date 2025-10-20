@@ -9,7 +9,7 @@
 - **Product**: Zack AI Companion
 - **Category**: Premium AI Educational Companion
 - **Tagline**: "Your Child's First AI Friend"
-- **Retail range**: $149–299 (see Pricing Strategy)
+- **Price**: MRP $199; Pre-order/Backer Deal $99 (Indiegogo/Kickstarter)
 - **Connectivity**: Wi‑Fi 2.4G (2.4–2.485 GHz), Bluetooth 5.0
 - **Dimensions**: 280 × 240 mm (approx. 11.0 × 9.45 in)
 - **Weight**: 345 g (approx. 0.76 lb)
@@ -153,7 +153,7 @@
 ### **Premium Market Positioning**
 
 **Category**: Premium AI Educational Companion (vs. mass-market toys)
-**Price Range**: $149-299 (3-5x competitive pricing)
+**Canonical Pricing**: MRP $199; Pre-order/Backer Deal $99 (Indiegogo/Kickstarter)
 **Justification**: Superior AI processing, educational focus, privacy-first design
 
 ### **Key Differentiators**
@@ -198,18 +198,15 @@
 
 ## **Pricing Strategy**
 
-### **Retail Pricing Tiers**
+### **Canonical Pricing**
 
-- **Super Early Bird**: $149 (100 units, $100 off retail)
-- **Early Bird**: $179 (500 units, $70 off retail)
-- **Standard**: $199 (unlimited, $50 off retail)
-- **Family Pack**: $349 (2 units + accessories)
-- **Educator Pack**: $899 (5 units + classroom curriculum)
+- MRP: $199
+- Pre-order/Backer Deal: $99 (Indiegogo/Kickstarter)
 
-### **Subscription Model**
-
-- **Premium Content**: $9.99/month for advanced features and content
-- **Educational Licensing**: $199/unit for schools and institutions
+Notes:
+- Remove all alternative tiers (no Early/Super Early Bird; no Family/Educator packs in base pricing).
+- Bundle/add-on pricing to be defined separately without altering base product price.
+- No subscriptions at launch; all core features included. Institutional inquiries handled case-by-case; no separate licensing pricing at launch.
 
 ---
 
@@ -416,9 +413,9 @@
 
 ### **Launch Strategy**
 
-- **Early Bird Pricing**: $129 (limited time, creates urgency)
-- **Standard Retail**: $149 (maintains premium positioning)
-- **Bundle Options**: $199 for accessories/extended warranty
+- Backer Deal: $99 (limited time during crowdfunding)
+- MRP: $199 (post-campaign retail)
+- Bundle Options: TBD; base product price remains canonical ($199 MRP / $99 backer)
 
 ---
 
@@ -492,7 +489,7 @@ Every marketing initiative should include:
 
 ## **References & Asset Map**
 
-- **Shopify listing copy**: `03-compelling-copy/shopify-product-copy-v2.md`
+- **Shopify listing copy**: `03-compelling-copy/shopify-product-copy.md`
 - **Listing readiness checklist**: `02-product-detailing/listing-readiness-checklist.md`
 - **Buyer persona (full)**: `01-market-understanding/zack-ai-buyer-persona.md`
 - **Buyer persona (summary)**: `01-market-understanding/zack-ai-buyer-persona-summary.md`
