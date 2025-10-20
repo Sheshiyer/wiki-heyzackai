@@ -1,9 +1,11 @@
 # Zack AI Product Guardrails
+
 ## Complete Product Reference & Listing Guidelines
 
 **Document Purpose**: This document serves as the single source of truth for all Zack AI product details, specifications, messaging, and requirements for consistent product listings, marketing materials, and communications.
 
 ### **Quick Reference Index**
+
 - **Product**: Zack AI Companion
 - **Category**: Premium AI Educational Companion
 - **Tagline**: "Your Child's First AI Friend"
@@ -18,6 +20,7 @@
 - **Key Paths**: See References & Asset Map
 
 ### **Table of Contents**
+
 - Product Overview
 - Technical Specifications
 - Software Features
@@ -47,6 +50,7 @@
 ## **Product Overview**
 
 ### **Core Identity**
+
 - **Product Name**: Zack AI Companion
 - **Brand**: Zack AI
 - **Company**: Heyzack.ai
@@ -54,11 +58,14 @@
 - **Category**: Premium AI Educational Companion
 
 ### **Mission Statement**
+
 *"To create technology that arouses curiosity rather than distracts it"* — Gary Abitbol, Founder
 
 ### **Value Proposition**
+
 **Primary**: "Screen-free playtime that grows with your child"
-**Secondary**: 
+**Secondary**:
+
 - Privacy-first design with local processing
 - Educational content aligned with curriculum standards
 - Emotional intelligence development
@@ -69,6 +76,7 @@
 ## **Technical Specifications**
 
 ### **Physical Specifications**
+
 - **Product Size**: 280 × 240 mm (approx. 11.0 × 9.45 in)
 - **Weight**: 345 g (approx. 0.76 lb)
 - **Materials**: Child-safe ABS plastic, soft-touch silicone
@@ -76,20 +84,19 @@
 - **Form Factor**: Premium cylindrical design with natural material accents
 
 ### **Hardware & Connectivity**
+
 - **Battery**: 1400mAh lithium-ion battery pack
 - **Charging**: USB; approx. 5 hours to full charge
-- **Connectivity**: Wi‑Fi 2.4G (2.4–2.485 GHz), Bluetooth 5.0
-- **Storage**: 32GB internal
-- **Processor**: Quad‑core processor (architecture not disclosed)
-- **Memory**: 4GB RAM
-- **Sensors**: Microphone array, Camera, Touch sensors, Accelerometer
-- **Speaker**: 8V 3W; **Speaker driving**: 5Q3W
+- **Connectivity**: Wi‑Fi 2.4G (2.4–2.485 GHz),
+- **Speaker**: 8V 3W;
+- **Speaker driving**: 5Q3W
 - **Audio Collection**: 32 kHz sampling
 - **Status Light**: Power indicator light (1)
-- **Key/Controls**: 1 button (cancel binding and wake up)
+- **Key/Controls**: 2 button (Pairing and wake up)
 - **Firmware Upgrade**: OTA (over‑the‑air)
 
 ### **Software Features**
+
 - Emotional expression that adapts to the user's mood
 - Multilingual conversation (see Supported Languages)
 - Interacts with educational and play‑based games
@@ -110,6 +117,7 @@
 - Interactive storytelling with multiple voices
 
 ### **Use Cases**
+
 - Indoor family use
 - Gift‑giving occasions
 - Learning activities and play‑based engagement
@@ -119,18 +127,22 @@
 ## **Target Audience**
 
 ### **Primary Audience**
+
 **Premium Educational Parents**
+
 - **Demographics**: Age 32-48, household income $75K+
 - **Characteristics**: College-educated professionals, quality-focused, education-oriented
 - **Location**: Affluent suburbs, urban professionals
 - **Values**: Child development, privacy protection, educational outcomes
 
 ### **Secondary Audiences**
+
 - **Grandparents**: Gift-givers seeking meaningful presents
 - **Educators**: Teachers and childcare professionals
 - **Tech-Conscious Families**: Early adopters of family technology
 
 ### **Geographic Focus**
+
 - **Primary**: North America, Europe (especially France)
 - **Secondary**: English-speaking markets globally
 
@@ -139,38 +151,44 @@
 ## **Competitive Positioning**
 
 ### **Premium Market Positioning**
+
 **Category**: Premium AI Educational Companion (vs. mass-market toys)
 **Price Range**: $149-299 (3-5x competitive pricing)
 **Justification**: Superior AI processing, educational focus, privacy-first design
 
 ### **Key Differentiators**
+
 1. **Educational Outcomes Focus**
+
    - Proven learning results with measurable progress
    - Curriculum-aligned content and assessments
    - Parent dashboards with development tracking
-
 2. **Privacy Leadership**
+
    - Local processing, minimal data collection
    - Transparent privacy policies and controls
    - GDPR and COPPA compliant
-
 3. **Premium Quality & Design**
+
    - Superior materials and craftsmanship
    - Adult-appealing aesthetic design
    - Home decor integration
-
 4. **Personalized AI Experience**
+
    - Advanced AI with deeper learning capabilities
    - Customizable personality and interaction styles
    - Long-term relationship development
 
 ### **Competitive Landscape**
+
 **Direct Competitors**:
+
 - Amazon Echo Dot Kids ($49.99) - Not designed for companionship
 - Miko 3 ($299) - Requires constant internet connection
 - Cozmo Robot ($179) - Limited conversational AI
 
 **Competitive Advantages**:
+
 - First AI companion designed specifically for emotional development
 - Advanced privacy protections with local processing
 - Curriculum-aligned educational content
@@ -181,6 +199,7 @@
 ## **Pricing Strategy**
 
 ### **Retail Pricing Tiers**
+
 - **Super Early Bird**: $149 (100 units, $100 off retail)
 - **Early Bird**: $179 (500 units, $70 off retail)
 - **Standard**: $199 (unlimited, $50 off retail)
@@ -188,6 +207,7 @@
 - **Educator Pack**: $899 (5 units + classroom curriculum)
 
 ### **Subscription Model**
+
 - **Premium Content**: $9.99/month for advanced features and content
 - **Educational Licensing**: $199/unit for schools and institutions
 
@@ -196,6 +216,7 @@
 ## **Marketing Messaging Guidelines**
 
 ### **Primary Brand Messages**
+
 1. **"Intelligent Learning, Beautiful Design"** - Premium positioning
 2. **"Privacy-First AI for Families"** - Trust and safety leadership
 3. **"Measurable Learning Outcomes"** - Educational effectiveness
@@ -203,21 +224,25 @@
 5. **"The Future of Family AI"** - Innovation leadership
 
 ### **Hero Message**
+
 *"The AI companion that helps your child learn, grow, and thrive—with complete privacy protection."*
 
 ### **Supporting Messaging Pillars**
+
 1. **Intelligent Learning**: Adaptive educational content
 2. **Privacy Protection**: Family data security
 3. **Premium Quality**: Superior design and materials
 4. **Proven Results**: Measurable learning outcomes
 
 ### **Tone & Voice Requirements**
+
 - **Warm and approachable**: Parent-friendly language
 - **Child safety focused**: Emphasize protection and security
 - **Educational value emphasized**: Learning outcomes priority
 - **Privacy and security highlighted**: Data protection prominence
 
 ### **Avoid Language**
+
 - Surveillance or monitoring (use "parental awareness")
 - Addiction or addictive
 - Replacement for parents/friends
@@ -229,18 +254,21 @@
 ## **Design & Visual Guidelines**
 
 ### **Design Language**
+
 - **Minimalist Sophistication**: Clean, uncluttered forms
 - **Premium Materials**: Quality over cost optimization
 - **Adult Appeal**: Design that parents want to display
 - **Child Safety**: Rounded forms, secure construction
 
 ### **Color Strategy**
+
 1. **Primary Palette**: Sophisticated neutrals (charcoal, cream, natural wood)
 2. **Accent Colors**: Subtle, customizable LED lighting
 3. **Premium Finishes**: Matte textures, natural materials
 4. **Home Integration**: Furniture-quality aesthetics
 
 ### **Visual Brand Positioning**
+
 - **Premium Category**: Sophisticated, quality-focused
 - **Family Technology**: Adult and child appeal
 - **Minimalist Presentation**: Clean, focused communication
@@ -251,6 +279,7 @@
 ## **Compliance & Safety Requirements**
 
 ### **Safety Certifications**
+
 - COPPA compliant
 - CE marked
 - FCC certified
@@ -259,6 +288,7 @@
 - REACH compliant
 
 ### **Privacy Standards**
+
 - GDPR compliant
 - CCPA compliant
 - Local data processing by default
@@ -266,12 +296,14 @@
 - No data sharing with third parties
 
 ### **Content Guidelines**
+
 - Age-appropriate content only
 - No violent or inappropriate material
 - Educational content reviewed by child development experts
 - Multi-cultural and inclusive representation
 
 ### **Required Disclaimers**
+
 - Requires adult supervision for setup
 - Internet connection required for updates
 - Battery life varies with usage
@@ -280,6 +312,7 @@
 ---
 
 ## **Packaging & Accessories**
+
 - **Packaging Size**: 25 × 20 × 35 cm (approx. 9.84 × 7.87 × 13.78 in)
 - **Accessories Included**: Charging cable; User manual
 - **Weight of Packing**: 8.55 kg per box (approx. 18.85 lb)
@@ -290,9 +323,7 @@
 
 - Core languages (UI & voice): English, Spanish (Mexico), French, German, Italian, Portuguese (Brazil), Chinese (Mandarin), Japanese, Korean, Hindi.
 - Extended languages (voice): Arabic, Arabic (Saudi/Gulf), Armenian, Azerbaijani, Bengali, Bulgarian, Burmese, Croatian, Czech, Dutch, Estonian, Filipino (Tagalog), Finnish, Greek, Gujarati (India), Hungarian, Indonesian, Javanese (Latin, Indonesia), Kazakh, Lao, Latvian, Macedonian, Malay (Malaysia), Mongolian, Nepali, Norwegian, Persian (Farsi, Iran), Portuguese (Portugal), Romanian, Russian, Serbian (Cyrillic), Slovak, Spanish (Argentina), Spanish (Spain), Swahili (Kenya), Swedish, Tamil (India), Telugu (India), Ukrainian, Uzbek (Latin).
-
 - Dialect notes: Spanish variants (Argentina, Mexico, Spain); Portuguese variants (Brazil, Portugal); Arabic (Gulf/Saudi).
-
 - Coverage: 40+ languages; contact support for the latest full list.
 
 ---
@@ -300,6 +331,7 @@
 ## **Product Listing Requirements**
 
 ### **Essential Elements for All Listings**
+
 1. **Hero Image**: Premium lifestyle photography showing home integration
 2. **Key Features**: Educational outcomes, privacy protection, premium quality
 3. **Technical Specifications**: Complete hardware and software details
@@ -308,7 +340,8 @@
 6. **Privacy Features**: Data protection and parental controls highlighted
 
 ### **Required Feature Callouts**
-- **Screen-Free Learning**: Emphasize no-screen interaction
+
+- **Screen‑Free Playtime**: Emphasize no‑screen interaction
 - **Privacy-First Design**: Local processing and data protection
 - **Educational Outcomes**: Curriculum-aligned learning content
 - **Emotional Intelligence**: Social-emotional development support
@@ -316,6 +349,7 @@
 - **Multi-Language Support**: Extensive language capabilities (see Supported Languages)
 
 ### **Pricing Presentation**
+
 - **Value Emphasis**: Compare to educational services and tutoring
 - **Premium Justification**: Quality materials and advanced AI
 - **Educational ROI**: Long-term learning investment
@@ -326,18 +360,21 @@
 ## **Content Creation Guidelines**
 
 ### **Photography Requirements**
+
 - **Lifestyle Focus**: Children and families in natural home settings
 - **Premium Environments**: Sophisticated, well-designed homes
 - **Educational Context**: Learning and development scenarios
 - **Emotional Connection**: Genuine interaction moments
 
 ### **Video Content**
+
 - **30-75 second scripts**: Hook → Promise → Proof → CTA
 - **Educational Demonstrations**: Learning outcomes in action
 - **Parent Testimonials**: Real family experiences
 - **Behind-the-Scenes**: Development and safety testing
 
 ### **Written Content**
+
 - **Outcome-Focused**: Learning results over feature lists
 - **Story-Driven**: Family experiences vs. technical specs
 - **Premium Narrative**: Quality and craftsmanship emphasis
@@ -348,18 +385,21 @@
 ## **Competitive Intelligence Summary**
 
 ### **Market Gaps Exploited**
+
 1. **Premium Quality Segment**: Underserved market for high-end AI companions
 2. **Privacy-First Products**: Growing concern not addressed by competitors
 3. **Educational Outcomes Focus**: Features without proven learning results
 4. **Design Excellence**: Aesthetic considerations largely ignored
 
 ### **Competitive Advantages**
+
 - **3-5x Price Premium Justified**: Superior AI, privacy, and educational outcomes
 - **Adult-Appealing Design**: Home integration vs. toy-like appearance
 - **Privacy Leadership**: Local processing vs. cloud-dependent competitors
 - **Educational Focus**: Measurable learning outcomes vs. entertainment
 
 ### **Strategic Positioning**
+
 **Against Mass Market**: Premium quality, sophisticated design, proven outcomes
 **Against Premium Competitors**: Privacy leadership, educational focus, family-centric design
 
@@ -368,12 +408,14 @@
 ## **Campaign-Specific Information**
 
 ### **Crowdfunding Details**
+
 - **Funding Goal**: $500,000
 - **Campaign Duration**: 45 days
 - **Delivery Timeline**: 8-10 months post-campaign
 - **Manufacturing**: Taiwan (certified facilities)
 
 ### **Launch Strategy**
+
 - **Early Bird Pricing**: $129 (limited time, creates urgency)
 - **Standard Retail**: $149 (maintains premium positioning)
 - **Bundle Options**: $199 for accessories/extended warranty
@@ -383,6 +425,7 @@
 ## **Validation Checklist**
 
 ### **Pre-Launch Requirements**
+
 - [ ] All technical specifications verified
 - [ ] Safety certifications confirmed
 - [ ] Privacy compliance validated
@@ -391,6 +434,7 @@
 - [ ] Marketing messages tested
 
 ### **Content Validation**
+
 - [ ] No hallucinated facts included
 - [ ] Compliance requirements met
 - [ ] Tone guidelines followed
@@ -402,13 +446,16 @@
 ## **Key Performance Indicators**
 
 ### **Success Metrics**
+
 - **CTR**: ≥ 1.8% (EU-FR benchmark)
 - **CVR**: ≥ 3.5% (conversion rate)
 - **CPA**: ≤ €25 (cost per acquisition)
 - **ROAS**: ≥ 2.8x (return on ad spend)
 
 ### **Learning Loop**
+
 Every marketing initiative should include:
+
 - **Hypothesis**: What we expect to achieve
 - **Success Metric**: Single KPI to measure in 3-7 days
 - **Next Experiment**: Follow-up test based on results
@@ -418,6 +465,7 @@ Every marketing initiative should include:
 ## **Usage Instructions**
 
 ### **For Product Listings**
+
 1. Use hero message and key differentiators
 2. Include all required technical specifications
 3. Highlight safety certifications and privacy features
@@ -425,6 +473,7 @@ Every marketing initiative should include:
 5. Include appropriate disclaimers and age ranges
 
 ### **For Marketing Materials**
+
 1. Follow tone and voice guidelines
 2. Use approved messaging pillars
 3. Avoid prohibited language and claims
@@ -432,6 +481,7 @@ Every marketing initiative should include:
 5. Focus on outcomes over features
 
 ### **For Content Creation**
+
 1. Reference photography and video guidelines
 2. Use lifestyle and educational contexts
 3. Emphasize premium positioning
@@ -441,6 +491,7 @@ Every marketing initiative should include:
 ---
 
 ## **References & Asset Map**
+
 - **Shopify listing copy**: `03-compelling-copy/shopify-product-copy-v2.md`
 - **Listing readiness checklist**: `02-product-detailing/listing-readiness-checklist.md`
 - **Buyer persona (full)**: `01-market-understanding/zack-ai-buyer-persona.md`
@@ -452,6 +503,7 @@ Every marketing initiative should include:
 - **Assets (variants)**: `assets/zackaicolorvariants/`
 
 ## **Variant & Image Map**
+
 - **Blue** — `assets/zackaicolorvariants/blue.png` — Alt: Zack AI — Blue (smart plush companion)
 - **Light Pink** — `assets/zackaicolorvariants/light-pink.png` — Alt: Zack AI — Light Pink (smart plush companion)
 - **Gradient Purple‑Pink** — `assets/zackaicolorvariants/gradient-purple-pink.png` — Alt: Zack AI — Gradient Purple‑Pink (smart plush companion)
@@ -460,6 +512,7 @@ Every marketing initiative should include:
 - **All variants** — `assets/zackaicolorvariants/all.png`
 
 ## **Reusable Copy Blocks (Canonical Snapshot)**
+
 - **PDP Title**: Zack AI — Screen‑Free Playtime
 - **Hero Headlines**: Curiosity, Unplugged · Screen‑Free Playtime · Talk & Learn
 - **Sub‑headline**: Screen‑free playtime that builds empathy, AI‑guided learning, and everyday language confidence.
@@ -476,23 +529,27 @@ Every marketing initiative should include:
 - **Description Note**: Extended languages available; see Supported Languages for coverage.
 
 ## **Announcement Banner Microcopy**
+
 - Pre‑order now — delivers before the holidays for kids
 - Order today — arrives before the holidays
 - Mobile short: Arrives before holidays
 - CTA link text: Pre‑Order Now · Reserve Yours
 
 ## **Quick Admin References**
+
 - **Product type**: AI Learning Companion · **Vendor**: Heyzack AI · **Collections**: Home page
 - **Tags**: ai companion, screen‑free, educational, emotional intelligence, multilingual, conversational, privacy‑first, bedtime stories, interactive, gift idea, kids
 - **Variants**: Blue, Light Pink, Gradient Purple‑Pink, Starlight Grey, Yellow
 
 ## **Change Log**
+
+- 2025‑10‑20: Updated master positioning to “screen‑free playtime”; aligned reusable copy blocks, guardrails callouts, press release, buyer persona docs, and Shopify listing/sections.
 - 2025‑10‑19: Added Bluetooth 5.0; inch/pound conversions; normalized languages; updated buy‑box; description languages note; created References/Asset Map and Reusable Copy Blocks; aligned connectivity across assets.
 
 ---
 
-**Document Version**: 1.2  
-**Last Updated**: October 2025  
+**Document Version**: 1.2
+**Last Updated**: October 2025
 **Next Review**: Monthly or upon product updates
 
 *This document must be consulted for all Zack AI product communications, listings, and marketing materials to ensure consistency and compliance.*
