@@ -57,7 +57,7 @@
 *"To create technology that arouses curiosity rather than distracts it"* — Gary Abitbol, Founder
 
 ### **Value Proposition**
-**Primary**: "Screen-free AI companion that grows with your child"
+**Primary**: "Screen-free playtime that grows with your child"
 **Secondary**: 
 - Privacy-first design with local processing
 - Educational content aligned with curriculum standards
@@ -460,18 +460,18 @@ Every marketing initiative should include:
 - **All variants** — `assets/zackaicolorvariants/all.png`
 
 ## **Reusable Copy Blocks (Canonical Snapshot)**
-- **PDP Title**: Zack AI — Screen‑Free Learning Companion
-- **Hero Headlines**: Curiosity, Unplugged · Screen‑Free Intelligence · Talk & Learn
-- **Sub‑headline**: Screen‑free conversation that builds empathy, AI‑guided learning, and everyday language confidence.
+- **PDP Title**: Zack AI — Screen‑Free Playtime
+- **Hero Headlines**: Curiosity, Unplugged · Screen‑Free Playtime · Talk & Learn
+- **Sub‑headline**: Screen‑free playtime that builds empathy, AI‑guided learning, and everyday language confidence.
 - **Buy‑Box Bullets**:
   - Multilingual conversation and stories for daily practice.
   - Adaptive long‑term memory that grows with your child.
   - Parent mood summaries from chats (opt‑in, privacy‑first).
-  - Screen‑free conversations that spark curiosity.
+  - Screen‑free playtime that sparks curiosity.
   - Emotion‑aware responses to build empathy.
 - **SEO Metadata**:
-  - Title: Zack AI — Screen‑Free Learning Companion for Kids
-  - Meta description: Zack AI helps children learn and grow through screen‑free conversation, stories, and language practice. Emotion‑aware, multilingual, and parent‑controlled — a smart plush companion designed for modern families.
+  - **Title**: Zack AI — Screen‑Free Playtime for Kids
+  - Meta description: Zack AI helps children learn and grow through screen‑free playtime — conversation, stories, and language practice. Emotion‑aware, multilingual, and parent‑controlled — a smart plush companion designed for modern families.
   - Handle: `zack-ai-learning-companion`
 - **Description Note**: Extended languages available; see Supported Languages for coverage.
 

@@ -22,9 +22,9 @@ The toy interacts naturally with children—telling stories, offering interactiv
 
 Featuring a built-in internet connection, multilingual support, voice cloning, and adaptive long-term memory, Zack AI offers a blend of playful charm and powerful AI technology rarely seen in children’s toys. Parents can also customize its responses and interaction modes via a companion app to ensure a safe, age-appropriate experience.
 
-A Screen-Free Digital Experience
+## Screen-Free Playtime Experience
 
-In a world dominated by tablets and smartphones, Zack AI introduces a screen-free digital experience. Its goal is to help kids engage their imagination and curiosity through conversation, not scrolling.
+In a world dominated by tablets and smartphones, Zack AI introduces a screen-free playtime experience. Its goal is to help kids engage their imagination and curiosity through conversation, not scrolling.
 
 Zack AI answers questions, shares daily fun facts, tells bedtime stories in different voices, and helps kids learn languages or problem-solving basics through playful dialogue. It's a safe, interactive, and emotionally aware experience that encourages curiosity—without increasing screen time. The perfect gift for smarter holidays
 

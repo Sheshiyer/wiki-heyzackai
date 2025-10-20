@@ -1,31 +1,31 @@
 # Zack AI Shopify Listing Copy (Refined)
 
 ## Title
-- Zack AI — Screen‑Free Learning Companion
+- Zack AI — Screen‑Free Playtime
 
 ## Hero Headline (2–3 words, no “Meet Zack”) 
 - Curiosity, Unplugged
-- Screen‑Free Intelligence
+- Screen‑Free Playtime
 - Talk & Learn
 
 ## Sub‑headline (bridges 5 domains)
-- Screen‑free conversation that builds empathy, AI‑guided learning, and everyday language confidence.
+- Screen‑free playtime that builds empathy, AI‑guided learning, and everyday language confidence.
 
 ## Buy‑Box Bullets
 - Multilingual conversation and stories for daily practice.
 - Adaptive long‑term memory that grows with your child.
 - Parent mood summaries from chats (opt‑in, privacy‑first).
-- Screen‑free conversations that spark curiosity.
+- Screen‑free playtime that sparks curiosity.
 - Emotion‑aware responses to build empathy.
 
 ## Description (HTML)
 ```html
-<h2>Screen‑Free Learning Through Conversation</h2>
+<h2>Screen‑Free Playtime Through Conversation</h2>
 <p>Zack AI is a warm, conversational companion that listens, learns, and plays. With emotion recognition and animated eyes, Zack turns everyday questions into discovery — from friendly explanations to imaginative stories and gentle language practice.</p>
 
 <h3>How Zack Bridges Key Domains</h3>
 <ul>
-  <li><strong>Screen‑Free Time:</strong> Engaging dialogue, stories, and games without tablets.</li>
+  <li><strong>Screen‑Free Playtime:</strong> Engaging dialogue, stories, and games without tablets.</li>
   <li><strong>Emotional Learning:</strong> Emotion‑aware responses that encourage empathy and self‑expression.</li>
   <li><strong>AI Learning:</strong> Personalized activities that adapt to your child’s interests.</li>
   <li><strong>Language Proficiency:</strong> Multilingual voices and short daily practice sessions.</li>
@@ -86,11 +86,11 @@
 ## Keyword Placement Strategy (refined)
 - Avoid “smart plush” in the title and hero.
 - Use “smart plush” once in the meta description and image alt text for SEO.
-- Primary focus: “Screen‑Free Learning Companion”, “Conversational AI for Kids”.
+- Primary focus: “Screen‑Free Playtime”, “Conversational AI for Kids”.
 
 ## SEO Metadata
-- Title: Zack AI — Screen‑Free Learning Companion for Kids
-- Meta description: Zack AI helps children learn and grow through screen‑free conversation, stories, and language practice. Emotion‑aware, multilingual, and parent‑controlled — a smart plush companion designed for modern families.
+- Title: Zack AI — Screen‑Free Playtime for Kids
+- Meta description: Zack AI helps children learn and grow through screen‑free playtime — conversation, stories, and language practice. Emotion‑aware, multilingual, and parent‑controlled — a smart plush companion designed for modern families.
 - Handle: `zack-ai-learning-companion`
 
 ## Variants

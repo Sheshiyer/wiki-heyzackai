@@ -71,7 +71,7 @@ Each scene includes:
 
 **On-screen text:**
 
-“Zack AI — The Screen-Free AI Companion.”
+“Zack AI — Screen-Free Playtime.”
 
 **JSON Prompt:**
 

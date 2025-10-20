@@ -39,7 +39,7 @@
 
 **Zack AI Key Features to Emphasize:**
 - Conversational AI with emotion recognition
-- Screen-free digital experience  
+- Screen-free playtime experience  
 - Multilingual support and voice cloning
 - Adaptive long-term memory
 - LED animated eyes for lifelike interaction

@@ -47,7 +47,7 @@ target_market:
 
 value_propositions:
   # CRITICAL: These are our core differentiators
-  primary: "Screen-free AI companion that grows with your child"
+  primary: "Screen-free playtime that grows with your child"
   secondary: 
     - "Privacy-first design with local processing"
     - "Educational content aligned with curriculum standards"
@@ -208,3 +208,8 @@ validation_checklist:
   tone_guidelines_followed: false
   prohibited_claims_avoided: false
   required_disclaimers_included: false
+
+copy_guidelines:
+  preferred_terms:
+    - "Screen-free playtime"
+    - "Conversational AI for kids"

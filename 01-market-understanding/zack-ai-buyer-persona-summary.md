@@ -4,7 +4,7 @@
 
 **Primary Persona**: Sophie Dubois - "The Mindful Tech Parent"  
 **Market**: EU/FR families with children aged 3-8  
-**Core Need**: Screen-free AI learning companion that develops emotional intelligence  
+**Core Need**: Screen-free playtime that develops emotional intelligence  
 **Key Insight**: Sophie faces a false choice between engaging technology (with screens/addiction) and healthy development (with limited interactivity)
 
 ---
@@ -15,7 +15,7 @@
 - **Age**: 34, Marketing Manager, Lyon, France
 - **Family**: Married, 2 children (Emma, 4; Lucas, 18 months)
 - **Income**: €65,000 household, middle-class comfort
-- **Values**: Screen-free development, emotional intelligence, multilingual education
+- **Values**: Screen-free playtime, emotional intelligence, multilingual education
 
 ### Psychographics
 - **Identity**: Thoughtful, research-driven parent who prioritizes child development over convenience
@@ -74,7 +74,7 @@
 **"Technology that arouses curiosity rather than distracts it"**
 
 ### Supporting Messages
-1. **Screen-Free Intelligence**: "All the engagement of digital learning, none of the screen addiction"
+1. **Screen-Free Playtime**: "All the engagement of digital learning, none of the screen addiction"
 2. **Emotional Development**: "Builds emotional intelligence while learning naturally"
 3. **Parental Peace of Mind**: "Safe, smart conversations whenever curiosity strikes"
 4. **Multilingual Growth**: "Natural language development in French and English"
@@ -158,7 +158,7 @@
 ## Conversion Optimization Insights
 
 ### Landing Page Priorities
-1. **Above fold**: Screen-free AI learning companion for emotional development
+1. **Above fold**: Screen-free playtime for emotional development
 2. **Social proof**: Parent testimonials about child transformation
 3. **Safety assurance**: Privacy controls, age-appropriate content
 4. **Simplicity emphasis**: Easy setup, no ongoing complexity
