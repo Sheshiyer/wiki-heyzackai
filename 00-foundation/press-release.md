@@ -20,7 +20,7 @@ A smart companion for developing minds. Designed as both an educational and emot
 
 The toy interacts naturally with children—telling stories, offering interactive games, asking follow-up questions, and even adjusting its tone based on a child’s emotions. Over time, Zack AI develops memory-based personality traits, remembering favorite topics, moods, and first names to create a personalized and meaningful connection.
 
-Featuring a built-in internet connection, multilingual support, voice cloning, and adaptive long-term memory, Zack AI offers a blend of playful charm and powerful AI technology rarely seen in children’s toys. Parents can also customize its responses and interaction modes via a companion app to ensure a safe, age-appropriate experience.
+Connectivity includes Wi‑Fi and Bluetooth; multilingual support; voice cloning (with parental consent); and adaptive long‑term memory. Zack defaults to local processing and provides robust parental controls; no third‑party data sharing. Parents can customize its responses and interaction modes via a companion app to ensure a safe, age‑appropriate experience.
 
 ## Screen-Free Playtime Experience
 
@@ -43,3 +43,10 @@ This optional integration reflects Heyzack.ai’s broader mission: to build AI-p
 Founded in France, Heyzack.ai’s mission is to integrate friendly, conversational AI into every aspect of home life. The company develops a suite of AI-powered smart home solutions—from smart security to access, climate, and energy systems—all powered by its intuitive AI voice engine.
 
 Zack AI is the company’s first consumer product—fusing empathy, education, and artificial intelligence into a gentle companion that fits in every child’s arms.
+
+## Disclosures and Safety
+
+- Requires adult supervision for setup
+- Internet connection required for updates
+- Battery life varies with usage
+- Content subject to parental approval

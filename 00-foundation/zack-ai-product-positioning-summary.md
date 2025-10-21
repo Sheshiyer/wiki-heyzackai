@@ -73,7 +73,7 @@ Primary Brand Messages:
 - The Future of Family AI
 
 Hero Message:
-“The AI companion that helps your child learn, grow, and thrive—with complete privacy protection.”
+“The AI companion that helps your child learn, grow, and thrive—with privacy and safety controls you manage.”
 
 Summary:
 Zack AI Companion provides a trusted, premium AI experience that helps children learn and grow, while parents maintain control and privacy. It combines intelligent, multilingual learning with emotionally aware interactions—delivering screen‑free playtime and measurable educational outcomes.

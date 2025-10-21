@@ -69,7 +69,7 @@
 - Privacy and safety controls you manage; local processing by default
 - Educational content aligned with curriculum standards
 - Emotional intelligence development
-- Safe, monitored AI interactions
+- Safe AI interactions with parental awareness
 
 ---
 
@@ -110,7 +110,7 @@
 - Age‑appropriate AI conversations
 - Educational games and activities
 - Bedtime stories and lullabies
-- Parental controls and monitoring
+- Parental controls and awareness
 - Offline mode for privacy
 - Advanced conversational AI with emotion recognition
 - LED animated eyes for lifelike interaction
@@ -342,7 +342,7 @@ Notes:
 - **Privacy and Safety Controls**: Local processing by default; no third-party data sharing
 - **Educational Outcomes**: Curriculum-aligned learning content
 - **Emotional Intelligence**: Social-emotional development support
-- **Parental Controls**: Monitoring and customization capabilities
+- **Parental Controls**: Awareness and customization capabilities
 - **Multi-Language Support**: Extensive language capabilities (see Supported Languages)
 
 ### **Pricing Presentation**
