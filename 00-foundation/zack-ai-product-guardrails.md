@@ -66,7 +66,7 @@
 **Primary**: "Screen-free playtime that grows with your child"
 **Secondary**:
 
-- Privacy-first design with local processing
+- Privacy and safety controls you manage; local processing by default
 - Educational content aligned with curriculum standards
 - Emotional intelligence development
 - Safe, monitored AI interactions
@@ -154,7 +154,7 @@
 
 **Category**: Premium AI Educational Companion (vs. mass-market toys)
 **Canonical Pricing**: MRP $199; Pre-order/Backer Deal $99 (Indiegogo/Kickstarter)
-**Justification**: Superior AI processing, educational focus, privacy-first design
+**Justification**: Superior AI processing, educational focus, privacy leadership (local processing by default; transparent parental controls)
 
 ### **Key Differentiators**
 
@@ -215,14 +215,14 @@ Notes:
 ### **Primary Brand Messages**
 
 1. **"Intelligent Learning, Beautiful Design"** - Premium positioning
-2. **"Privacy-First AI for Families"** - Trust and safety leadership
+2. **"Privacy and Safety Controls for Families"** - Trust and safety leadership
 3. **"Measurable Learning Outcomes"** - Educational effectiveness
 4. **"Grows With Your Child"** - Long-term value proposition
 5. **"The Future of Family AI"** - Innovation leadership
 
 ### **Hero Message**
 
-*"The AI companion that helps your child learn, grow, and thrive—with complete privacy protection."*
+*"The AI companion that helps your child learn, grow, and thrive—with privacy and safety you control."*
 
 ### **Supporting Messaging Pillars**
 
@@ -339,7 +339,7 @@ Notes:
 ### **Required Feature Callouts**
 
 - **Screen‑Free Playtime**: Emphasize no‑screen interaction
-- **Privacy-First Design**: Local processing and data protection
+- **Privacy and Safety Controls**: Local processing by default; no third-party data sharing
 - **Educational Outcomes**: Curriculum-aligned learning content
 - **Emotional Intelligence**: Social-emotional development support
 - **Parental Controls**: Monitoring and customization capabilities
@@ -384,7 +384,7 @@ Notes:
 ### **Market Gaps Exploited**
 
 1. **Premium Quality Segment**: Underserved market for high-end AI companions
-2. **Privacy-First Products**: Growing concern not addressed by competitors
+2. **Privacy & Safety-Controlled Products**: Growing concern not addressed by competitors
 3. **Educational Outcomes Focus**: Features without proven learning results
 4. **Design Excellence**: Aesthetic considerations largely ignored
 
@@ -516,7 +516,7 @@ Every marketing initiative should include:
 - **Buy‑Box Bullets**:
   - Multilingual conversation and stories for daily practice.
   - Adaptive long‑term memory that grows with your child.
-  - Parent mood summaries from chats (opt‑in, privacy‑first).
+  - Parent mood summaries from chats (opt‑in; parental awareness; local processing by default; no third‑party data sharing).
   - Screen‑free playtime that sparks curiosity.
   - Emotion‑aware responses to build empathy.
 - **SEO Metadata**:
@@ -535,12 +535,13 @@ Every marketing initiative should include:
 ## **Quick Admin References**
 
 - **Product type**: AI Learning Companion · **Vendor**: Heyzack AI · **Collections**: Home page
-- **Tags**: ai companion, screen‑free, educational, emotional intelligence, multilingual, conversational, privacy‑first, bedtime stories, interactive, gift idea, kids
+- **Tags**: ai companion, screen‑free, educational, emotional intelligence, multilingual, conversational, privacy and safety controls, bedtime stories, interactive, gift idea, kids
 - **Variants**: Blue, Light Pink, Gradient Purple‑Pink, Starlight Grey, Yellow
 
 ## **Change Log**
 
 - 2025‑10‑20: Updated master positioning to “screen‑free playtime”; aligned reusable copy blocks, guardrails callouts, press release, buyer persona docs, and Shopify listing/sections.
+- 2025‑10‑20: Replaced “privacy-first” with “privacy and safety controls you manage”; updated primary brand messages, value propositions, hero message, required feature callouts, tags, and competitive positioning.
 - 2025‑10‑19: Added Bluetooth 5.0; inch/pound conversions; normalized languages; updated buy‑box; description languages note; created References/Asset Map and Reusable Copy Blocks; aligned connectivity across assets.
 
 ---

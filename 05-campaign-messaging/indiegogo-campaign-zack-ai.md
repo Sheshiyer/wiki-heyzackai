@@ -10,7 +10,7 @@ Primary CTA: Back now — $99 Pre‑order/Backer Deal
 Zack AI is a warm, conversational companion designed to spark screen‑free playtime and everyday learning. It listens, responds, and grows with your child, building confidence through storytelling, questions, and playful activities.
 
 ## Key Features
-- Age‑appropriate conversations (privacy‑first)
+- Age‑appropriate conversations (privacy and safety controls you manage)
 - Educational games and guided activities
 - Bedtime stories and kid‑friendly fun facts
 - Parental controls and opt‑in features (voice clone, mood summaries)

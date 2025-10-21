@@ -18,7 +18,7 @@
 
 - Multilingual conversation and stories for daily practice.
 - Adaptive long‑term memory that grows with your child.
-- Parent mood summaries from chats (opt‑in, privacy‑first).
+- Parent mood summaries from chats (opt‑in, local processing by default).
 - Screen‑free playtime that sparks curiosity.
 - Emotion‑aware responses to build empathy.
 
@@ -56,7 +56,7 @@
   <li>Learning Guide for structured development.</li>
   <li>Emotional friendship and supportive companionship.</li>
   <li>Child‑safe news briefs (broadcast).</li>
-  <li>Parent mood summaries from chats (opt‑in, privacy‑first).</li>
+  <li>Parent mood summaries from chats (opt‑in, local processing by default).</li>
   <li>Animated LED eyes for lifelike interaction.</li>
   <li>Parent controls and customization.</li>
 </ul>
@@ -115,7 +115,7 @@
 
 ## Tags
 
-- ai companion, screen‑free, educational, emotional intelligence, multilingual, conversational, privacy‑first, bedtime stories, interactive, gift idea, kids
+- ai companion, screen‑free, educational, emotional intelligence, multilingual, conversational, privacy and safety controls, bedtime stories, interactive, gift idea, kids
 
 ## CTA & Micro‑Urgency
 

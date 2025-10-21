@@ -30,7 +30,7 @@ Software Features:
 - Educational content aligned with curriculum standards; learning guide for structured progression
 - Roles: teacher, storyteller, friend, helper; interactive stories and bedtime lullabies
 - Long‑term memory for progress and preferences; adaptive learning
-- Parent mood summaries from chats (opt‑in; privacy‑first — use “parental awareness”) 
+- Parent mood summaries from chats (opt‑in; local processing by default — use "parental awareness") 
 - Parental controls; offline mode for privacy
 - LED animated eyes; lifelike interaction
 
@@ -42,7 +42,7 @@ Use Cases:
 - Indoor family use; learning activities; play‑based engagement; gift‑giving occasions
 
 Competitive Positioning:
-- Premium vs. mass‑market toys; privacy‑first; educational outcomes
+- Premium vs. mass‑market toys; privacy and safety controls; educational outcomes
 - Notable competitors (for context): Amazon Echo Dot Kids ($49.99), Miko 3 ($299), Cozmo Robot ($179)
 
 Campaign‑Specific Details:

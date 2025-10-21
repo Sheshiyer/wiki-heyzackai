@@ -9,7 +9,7 @@ Zack AI is a premium AI educational companion designed for modern families. It d
 ## Detailed Features & Benefits
 
 1. Emotion‑Aware Conversations
-   - Function: Zack AI adapts responses to the child’s mood with emotion‑aware conversational AI.
+   - Function: Zack AI adapts responses to the child's mood with emotion‑aware conversational AI.
    - Value: Builds empathy and social‑emotional understanding in everyday interactions.
 
 2. Multilingual Learning (Core + 40+ Extended Languages)
@@ -28,8 +28,8 @@ Zack AI is a premium AI educational companion designed for modern families. It d
    - Function: Switches roles for learning prompts, bedtime stories, and playful conversation.
    - Value: Keeps engagement fresh while supporting daily routines.
 
-6. Parent Mood Summaries (Opt‑in; Privacy‑First)
-   - Function: Summarizes chat sentiment to help parents understand children’s moods.
+6. Parent Mood Summaries (Opt‑in; Privacy and Safety Controls)
+   - Function: Summarizes chat sentiment to help parents understand children's moods.
    - Value: Provides "parental awareness" without surveillance.
 
 7. Parental Controls & Offline Mode
@@ -106,4 +106,4 @@ To strengthen premium positioning without diluting brand identity, suggested non
 
 ## Summary
 
-Zack AI is a privacy‑first, educational AI companion that makes screen‑free playtime engaging and effective. With emotion‑aware conversations, multilingual learning, curriculum alignment, and premium child‑safe design, it helps children build empathy and confidence while providing parents with peace of mind. Canonical pricing ensures simplicity: $99 backer deal during crowdfunding and $199 retail post‑campaign, with no subscriptions at launch.
+Zack AI is a privacy and safety controls, educational AI companion that makes screen‑free playtime engaging and effective. With emotion‑aware conversations, multilingual learning, curriculum alignment, and premium child‑safe design, it helps children build empathy and confidence while providing parents with peace of mind. Canonical pricing ensures simplicity: $99 backer deal during crowdfunding and $199 retail post‑campaign, with no subscriptions at launch.

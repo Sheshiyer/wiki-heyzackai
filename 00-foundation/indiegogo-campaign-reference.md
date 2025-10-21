@@ -8,10 +8,10 @@ Canonical file: ../05-campaign-messaging/indiegogo-campaign-zack-ai.md
 - No subscriptions at launch; core features included
 
 ## Key Features
-- Age‑appropriate conversations; privacy‑first
+- Age‑appropriate conversations; privacy and safety controls you manage
 - Educational games and guided activities
 - Bedtime stories; fun facts
-- Parental controls; offline mode by default
+- Parental controls; offline mode available; local processing by default
 
 ## Timeline
 - Beta complete; pilot run next

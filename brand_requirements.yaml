@@ -5,7 +5,9 @@ brand_identity:
   name: "Zack AI"
   product_name: "Zack AI Companion"
   tagline: "Your Child's First AI Friend"
-  company: "Zack AI Inc."
+  company: "Heyzack.ai"
+  category: "Premium AI Educational Companion"
+  mission_statement: "To create technology that arouses curiosity rather than distracts it"
   
 product_specifications:
   # CRITICAL: These must never be hallucinated
@@ -14,19 +16,26 @@ product_specifications:
     preorder_backer: "$99"
   
   physical_specs:
-    dimensions: "8 x 6 x 4 inches"
-    weight: "1.2 lbs"
+    dimensions: "280 × 240 mm (approx. 11.0 × 9.45 in)"
+    weight: "345 g (approx. 0.76 lb)"
     materials: "Child-safe ABS plastic, soft-touch silicone"
-    colors: ["Blue", "Pink", "Green", "Purple"]
+    colors: ["Blue", "Light Pink", "Gradient Purple-Pink", "Starlight Grey", "Yellow"]
+    packaging_size: "25 × 20 × 35 cm (approx. 9.84 × 7.87 × 13.78 in)"
   
   technical_specs:
     battery_life: "8-12 hours continuous use"
-    charging: "USB-C, 2-hour full charge"
-    connectivity: "Wi-Fi 2.4G, Bluetooth 5.0"
+    battery_capacity: "1400 mAh lithium-ion"
+    charging: "USB; approx. 5 hours to full charge"
+    connectivity: "Wi‑Fi 2.4G (2.4–2.485 GHz), Bluetooth 5.0"
     storage: "32GB internal"
     processor: "ARM Cortex-A55 quad-core"
     memory: "4GB RAM"
     sensors: ["Microphone array", "Camera", "Touch sensors", "Accelerometer"]
+    speaker: "8V 3W; driver 5Q3W"
+    audio_sampling: "32 kHz"
+    status_light: "Power indicator (1)"
+    controls: "2 buttons (Pairing, Wake)"
+    firmware_upgrade: "OTA (over-the-air)"
   
   software_features:
     - "Age-appropriate AI conversations"
@@ -35,20 +44,36 @@ product_specifications:
     - "Emotional support and companionship"
     - "Parental controls and monitoring"
     - "Offline mode for privacy"
-    - "Multi-language support (English, Spanish, French)"
+    - "Advanced conversational AI with emotion recognition"
+    - "Multilingual conversation"
+    - "Long-term memory for learning progress and preferences"
+    - "Multiple roles (teacher, storyteller, friend, helper)"
+    - "Voice clone (with parental consent)"
+    - "Learning Guide for structured development"
+    - "Child-safe, curated news briefs"
+    - "Parent mood summaries (opt-in; parental awareness; local processing by default; no third-party data sharing)"
+    - "LED animated eyes for lifelike interaction"
+    - "Interactive storytelling with multiple voices"
+
+  supported_languages:
+    core: ["English", "Spanish (Mexico)", "French", "German", "Italian", "Portuguese (Brazil)", "Chinese (Mandarin)", "Japanese", "Korean", "Hindi"]
+    extended: ["Arabic", "Arabic (Gulf/Saudi)", "Armenian", "Azerbaijani", "Bengali", "Bulgarian", "Burmese", "Croatian", "Czech", "Dutch", "Estonian", "Filipino (Tagalog)", "Finnish", "Greek", "Gujarati (India)", "Hungarian", "Indonesian", "Javanese (Latin, Indonesia)", "Kazakh", "Lao", "Latvian", "Macedonian", "Malay (Malaysia)", "Mongolian", "Nepali", "Norwegian", "Persian (Farsi, Iran)", "Portuguese (Portugal)", "Romanian", "Russian", "Serbian (Cyrillic)", "Slovak", "Spanish (Argentina)", "Spanish (Spain)", "Swahili (Kenya)", "Swedish", "Tamil (India)", "Telugu (India)", "Ukrainian", "Uzbek (Latin)"]
+    notes: ["Spanish variants: Argentina, Mexico, Spain", "Portuguese variants: Brazil, Portugal", "Arabic: Gulf/Saudi"]
+
+# Market & Messaging
 
 target_market:
-  primary_audience: "Parents with children aged 5-12"
-  secondary_audience: "Grandparents, educators, gift-givers"
-  geographic_focus: "North America, Europe"
-  household_income: "$50,000+"
+  primary_audience: "Premium Educational Parents (children aged 5-12)"
+  secondary_audience: "Grandparents, educators, tech-conscious families"
+  geographic_focus: "North America, Europe (especially France)"
+  household_income: "$75,000+"
   tech_comfort: "Moderate to high"
 
 value_propositions:
   # CRITICAL: These are our core differentiators
   primary: "Screen-free playtime that grows with your child"
   secondary: 
-    - "Privacy-first design with local processing"
+    - "Privacy and safety controls you manage; local processing by default"
     - "Educational content aligned with curriculum standards"
     - "Emotional intelligence development"
     - "Safe, monitored AI interactions"
@@ -73,6 +98,9 @@ competitive_positioning:
     - "Advanced privacy protections with local processing"
     - "Curriculum-aligned educational content"
     - "Grows and adapts with child's development"
+    - "Measurable learning outcomes with parent dashboards"
+    - "Premium quality design suitable for home decor"
+    - "Personalized AI experience (customizable personality and interaction)"
 
 compliance_requirements:
   # CRITICAL: Legal and safety requirements
@@ -82,6 +110,7 @@ compliance_requirements:
     - "FCC certified" 
     - "CPSIA compliant"
     - "RoHS compliant"
+    - "REACH compliant"
   
   privacy_standards:
     - "GDPR compliant"
@@ -134,6 +163,7 @@ content_guidelines:
     - "Parental control and peace of mind"
     - "Quality and durability"
     - "Value for money"
+    - "Premium quality & design"
   
   avoid_language:
     - "Surveillance or monitoring (use parental awareness)"
@@ -158,6 +188,10 @@ campaign_specifics:
       price: "$199"
       quantity: "unlimited"
       savings: "Standard price"
+  
+  pricing_notes:
+    - "No subscriptions at launch; all core features included"
+    - "No alternative early-bird tiers; bundle/add-ons TBD without altering base price"
 
 risk_mitigation:
   # Address common crowdfunding concerns
@@ -197,3 +231,6 @@ copy_guidelines:
   preferred_terms:
     - "Screen-free playtime"
     - "Conversational AI for kids"
+    - "Privacy and safety controls"
+    - "Premium AI educational companion"
+    - "Parental awareness"

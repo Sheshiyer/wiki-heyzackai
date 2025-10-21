@@ -4,7 +4,7 @@
 
 ### Prompt 1
 
-I'm going to show you a detailed product description of a new product that’s soon to be launched on Indiegogo, but not currently available for sale. The product description will include: product name, pricing structure, overview, features and benefits, brand guardrails, and disclaimers. Just read and remember this entire product description. Don't explain it to me. I'll give you further instructions after:
+I'm going to show you a detailed product description of a new product that's soon to be launched on Indiegogo, but not currently available for sale. The product description will include: product name, pricing structure, overview, features and benefits, brand guardrails, and disclaimers. Just read and remember this entire product description. Don't explain it to me. I'll give you further instructions after:
 
 Product Name: Zack AI — Screen‑Free Conversational Play Companion
 
@@ -13,7 +13,7 @@ Pricing Structure:
 - Pre‑order/Backer Deal: $99
 
 Overview:
-Zack AI is a privacy‑first, screen‑free conversational companion designed for families. It sparks curiosity, builds language confidence (English + one more), and supports social‑emotional skills through warm, adaptive back‑and‑forth conversations. Zack remembers what your child loves, introduces new challenges over time, and helps parents reduce screen friction without sacrificing engagement.
+Zack AI is a privacy and safety controls companion, screen‑free conversational companion designed for families. It sparks curiosity, builds language confidence (English + one more), and supports social‑emotional skills through warm, adaptive back‑and‑forth conversations. Zack remembers what your child loves, introduces new challenges over time, and helps parents reduce screen friction without sacrificing engagement.
 
 Top Features & Benefits (no optional technical specifications; no regional shipping windows):
 - Screen‑free conversational play: Engaging, age‑appropriate dialogue—no glowing rectangles.
@@ -21,13 +21,13 @@ Top Features & Benefits (no optional technical specifications; no regional shipp
 - Bilingual practice: Natural conversation in English + one more language; no homework‑style drills.
 - Adaptive memory: Remembers names, preferences, interests; builds evolving learning arcs.
 - Parent awareness (not surveillance): Clear summaries and controls; private by design.
-- Privacy‑first: Local processing options and transparent data controls.
+- Privacy and safety controls: Local processing options and transparent data controls.
 - Premium, durable design: Kid‑safe materials; aesthetics that fit adult spaces.
 - Offline modes: Travel‑friendly, bedtime stories, and calm routines without cloud dependency.
 - Setup simplicity: Fast onboarding; age‑appropriate defaults and respectful boundaries.
 
 Brand Guardrails:
-- Use "screen‑free playtime" and "privacy‑first" consistently.
+- Use "screen‑free playtime" and "privacy and safety controls" consistently.
 - Avoid prohibited language: surveillance, addiction, replacement, medical/guaranteed outcomes.
 - Emphasize parent awareness, age‑appropriateness, and safety.
 
@@ -112,7 +112,7 @@ Alternatives (with pain points):
 - Reality: Fragile; maintenance burden; limited emotional intelligence; no evolving memory.
 
 Summary Insight:
-Most products force a trade‑off between engagement and healthy development. Zack AI aims to break that trade‑off with privacy‑first, screen‑free conversation that grows with the child.
+Most products force a trade‑off between engagement and healthy development. Zack AI aims to break that trade‑off with privacy and safety controls, screen‑free conversation that grows with the child.
 
 ### ChatGPT
 
@@ -123,7 +123,7 @@ I have read and stored the category alternatives and their limitations. Ready fo
 Read and remember. Don’t explain.
 
 Positioning:
-Zack AI is a premium, privacy‑first, screen‑free conversational companion that delivers engaging, age‑appropriate dialogue, emotional intelligence, bilingual practice, and adaptive memory—without screens or opaque data collection. It reduces device conflict, nurtures curiosity, and supports social confidence while giving parents clear awareness and control.
+Zack AI is a premium, privacy and safety controls, screen‑free conversational companion that delivers engaging, age‑appropriate dialogue, emotional intelligence, bilingual practice, and adaptive memory—without screens or opaque data collection. It reduces device conflict, nurtures curiosity, and supports social confidence while giving parents clear awareness and control.
 
 Brand Attributes:
 - Warm, friendly, consistent personality; conversation‑led learning
@@ -141,7 +141,7 @@ Mission & Stakes:
 If Zack AI vanished, families would return to the false choice: engaging tech with screen conflicts or healthy analog with shallow interactivity. Zack exists to resolve that trade‑off responsibly.
 
 Voice & Guardrails:
-Use "screen‑free" and "privacy‑first" consistently; avoid medical/guaranteed claims, surveillance language, or replacement framing.
+Use "screen‑free" and "privacy and safety controls" consistently; avoid medical/guaranteed claims, surveillance language, or replacement framing.
 
 ### ChatGPT
 
@@ -160,7 +160,7 @@ Yes. I will use the Zack AI product description, Alex Kim persona, alternatives,
 Answer the following comprehensively. Use scannable sections, fast value recognition, clear CTAs, perk clarity, and brand guardrails.
 
 1) Hero Product One‑Liner
-- Craft a 3–7 word hero headline (screen‑free, privacy‑first) and a 1‑sentence subhead.
+- Craft a 3–7 word hero headline (screen‑free, privacy and safety controls) and a 1‑sentence subhead.
 
 2) Value Proposition (5‑second scan)
 - 3 bullets that say what Zack does, why it matters, and why it’s different.

@@ -66,7 +66,7 @@ Perk Image:
 
 ### Problem → Solution
 - Problem: Parents want educational play without more screen time. Cloud‑dependent devices raise privacy concerns and don’t adapt to a child’s growth.
-- Solution: Zack AI delivers screen‑free, privacy‑first learning. It understands emotions, speaks multiple languages, and guides structured activities aligned with curriculum standards — all in a premium, child‑safe design.
+- Solution: Zack AI delivers screen‑free learning with privacy and safety controls you manage. It understands emotions, speaks multiple languages, and guides structured activities aligned with curriculum standards — all in a premium, child‑safe design.
 
 Image:
 - ![Zack AI — Starlight Grey (smart plush companion)](assets/zackaicolorvariants/starlight-grey.png)
@@ -77,7 +77,7 @@ Image:
 - Curriculum‑aligned learning guide for measurable progress
 - Long‑term memory to personalize sessions over time
 - Roles: Teacher · Storyteller · Friend · Helper
-- Parent mood summaries (opt‑in; privacy‑first — parental awareness)
+- Parent mood summaries (opt‑in; parental awareness; local processing by default; no third‑party data sharing)
 - Parental controls and offline mode
 - LED animated eyes for lifelike interaction
 - Voice clone (with parental consent)
@@ -185,7 +185,7 @@ Image:
 - When does shipping start? Initial shipments begin November 20, 2025 for France/EU.
 - What languages are supported? Core languages plus 40+ extended languages; see documentation for full coverage.
 - What connectivity is required? Wi‑Fi 2.4G; Bluetooth 5.0 available. Internet required for firmware updates.
-- Is my child’s data private? Yes. Privacy‑first design with parental controls; GDPR/COPPA compliant; opt‑in parental awareness summaries.
+- Is my child’s data private? Yes. Privacy and safety controls you manage; local processing by default; no third‑party data sharing; GDPR/COPPA compliant; opt‑in parental awareness summaries.
 - Can multiple children use Zack AI? Yes. Zack AI adapts and maintains progress across sessions.
 - Is there a subscription? No subscriptions at launch. Base product includes core features.
 

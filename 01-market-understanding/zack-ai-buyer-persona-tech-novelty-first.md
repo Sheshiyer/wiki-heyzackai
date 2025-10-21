@@ -41,7 +41,7 @@
 ### Values and Motivations
 #### Core Values
 - Curiosity over consumption; conversation over passive content
-- Privacy‑first design; parent‑controlled experiences
+- Privacy and safety controls design; parent‑controlled experiences
 - Premium quality that earns a place in the home
 - Learning through play; measurable growth in thinking and language
 - Sustainable purchases; fewer, better, longer‑lasting
@@ -176,7 +176,7 @@ A false choice between engaging technology and healthy, screen‑free developmen
 - Why Solutions Failed:
   - Smart speakers: Opaque data practices
   - Cloud‑dependent toys: Always‑online risk
-- How Zack AI Solves: Privacy‑first with local processing options and transparent parent controls.
+- How Zack AI Solves: Privacy and safety controls with local processing options and transparent parent controls.
 
 ### Root Cause 3: Static Content vs. Adaptive Curiosity
 - The Problem: Kids’ interests change daily; static content can’t keep up.
@@ -295,7 +295,7 @@ Alex is a privacy‑aware early adopter who wants screen‑free playtime with re
 
 Key decision criteria:
 - Screen‑free conversational engagement over visual stimulation
-- Privacy‑first architecture with local options and clear controls
+- Privacy and safety controls architecture with local options and clear controls
 - Emotional intelligence built into everyday interactions
 - Adaptive memory that builds learning arcs and projects
 - Premium materials and design that fit adult spaces
@@ -308,13 +308,13 @@ Quotes (for copy use):
 
 How Zack AI maps to Alex’s needs:
 - Screen‑free playtime via conversational AI; no visual screens
-- Privacy‑first with parent awareness (not surveillance); local processing options
+- Privacy and safety controls with parent awareness (not surveillance); local processing options
 - Emotion‑aware responses and social confidence coaching
 - Multilingual conversation; natural practice over drills
 - Premium, durable design suitable for adult spaces
 
 Guardrails & Language Compliance:
-- Uses "screen‑free playtime" and "privacy‑first" consistently
+- Uses "screen‑free playtime" and "privacy and safety controls" consistently
 - Avoids prohibited language (surveillance, addiction, replacement, medical/guaranteed claims)
 - Emphasizes parent awareness, age‑appropriateness, and safety
 

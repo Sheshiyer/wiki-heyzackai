@@ -8,7 +8,7 @@ Comprehensive checklist to prepare Kickstarter and Shopify pages for Zack AI. Us
 
 ### Team & Story
 - [ ] Founder bios, roles, headshots
-- [ ] Company story and mission (premium, privacy-first, education-focused)
+- [ ] Company story and mission (premium, privacy and safety controls, education-focused)
 - [ ] Advisory board / notable supporters (if any)
 
 ### Product & Validation
@@ -111,7 +111,7 @@ Comprehensive checklist to prepare Kickstarter and Shopify pages for Zack AI. Us
 - [ ] Meta title/description
 - [ ] Image alt text
 - [ ] Structured data (Product schema)
-- [ ] Keyword strategy alignment (premium AI companion, privacy-first)
+- [ ] Keyword strategy alignment (premium AI companion, privacy and safety controls)
 
 ### Policies
 - [ ] Privacy policy

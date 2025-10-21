@@ -215,7 +215,7 @@ Based on detailed analysis of the Alibaba AI companion product listings, here ar
 
 ### **Underserved Segments**
 1. **Premium Quality Seekers**: Want better materials, design
-2. **Privacy-First Parents**: Concerned about data collection
+2. **Privacy and Safety Control Parents**: Concerned about data collection
 3. **Educational Outcome Focused**: Want measurable learning results
 4. **Design-Conscious Buyers**: Aesthetic considerations important
 

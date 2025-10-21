@@ -91,7 +91,7 @@
 
 ### **Against This Competitor**
 - **"Next-Generation AI Companion"** vs. basic interactive toy
-- **"Privacy-First Family Technology"** vs. monitoring-focused approach  
+- **"Privacy and Safety Controls for Family Technology"** vs. monitoring-focused approach  
 - **"Premium Learning Partner"** vs. entertainment-focused device
 - **"Sophisticated Conversational AI"** vs. limited interaction patterns
 
