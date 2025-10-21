@@ -3,6 +3,7 @@
 This file is structured for direct platform import. Use the blocks below to copy/paste into Indiegogo/Kickstarter sections.
 
 Quick Index:
+
 - CTA Modules (FR + EN)
 - Perks (Single $99 Backer Deal)
 - Story (Problem → Solution, Features, How It Works, Design & Safety, Educational Outcomes, Privacy)
@@ -20,6 +21,7 @@ Quick Index:
 ## CTA Modules (Localized)
 
 ### France (FR)
+
 - Titre: Le premier ami IA de votre enfant — Jeux sans écran
 - Sous‑titre: Apprentissage multilingue, conscient des émotions, avec confidentialité au cœur.
 - CTA principal: Précommander maintenant (Offre soutien $99) — France/UE uniquement
@@ -29,6 +31,7 @@ Quick Index:
 - Mentions: Configuration sous supervision d’un adulte · Internet requis pour les mises à jour · L’autonomie varie · Le contenu est soumis à l’approbation parentale
 
 ### EU (EN)
+
 - Headline: Your Child’s First AI Friend — Screen‑Free Playtime
 - Sub‑headline: Multilingual, emotion‑aware learning with privacy at heart.
 - Primary CTA: Pre‑Order Now (Backer $99) — EU/France Only
@@ -38,6 +41,7 @@ Quick Index:
 - Disclaimers: Requires adult supervision for setup · Internet required for updates · Battery life varies · Content subject to parental approval
 
 Hero Image:
+
 - ![Zack AI — All Color Variants (smart plush companion)](assets/zackaicolorvariants/all.png)
 
 ---
@@ -45,6 +49,7 @@ Hero Image:
 ## Perks (Indiegogo/Kickstarter)
 
 Single Reward: Zack AI — Backer Deal
+
 - Price: $99 (during campaign)
 - Included:
   - 1× Zack AI device (choose variant name: Aurora / Serene / Nebula / Nimbus / Halo)
@@ -58,6 +63,7 @@ Single Reward: Zack AI — Backer Deal
 - Notes: No subscriptions at launch; OTA firmware updates included
 
 Perk Image:
+
 - ![Zack AI — Gradient Purple‑Pink (smart plush companion)](assets/zackaicolorvariants/gradient-purple-pink.png)
 
 ---
@@ -65,13 +71,16 @@ Perk Image:
 ## Story
 
 ### Problem → Solution
+
 - Problem: Parents want educational play without more screen time. Cloud‑dependent devices raise privacy concerns and don’t adapt to a child’s growth.
 - Solution: Zack AI delivers screen‑free learning with privacy and safety controls you manage. It understands emotions, speaks multiple languages, and guides structured activities aligned with curriculum standards — all in a premium, child‑safe design.
 
 Image:
+
 - ![Zack AI — Starlight Grey (smart plush companion)](assets/zackaicolorvariants/starlight-grey.png)
 
 ### Key Features
+
 - Emotion‑aware conversations to build empathy
 - Multilingual stories and activities (core + 40+ extended languages)
 - Curriculum‑aligned learning guide for measurable progress
@@ -84,21 +93,25 @@ Image:
 - Premium materials and rounded forms for child safety
 
 Images:
+
 - ![Zack AI — Blue (smart plush companion)](assets/zackaicolorvariants/blue.png)
 - ![Zack AI — Light Pink (smart plush companion)](assets/zackaicolorvariants/light-pink.png)
 - ![Zack AI — Yellow (smart plush companion)](assets/zackaicolorvariants/yellow.png)
 
 ### How It Works (Simple Steps)
-1. Power on and connect via Wi‑Fi 2.4G (Bluetooth 5.0 available).
+
+1. Power on and connect via Wi‑Fi 2.4G.
 2. Configure parental controls and privacy preferences.
 3. Choose a session: learning prompts, language practice, stories, or play‑based activities.
 4. Zack AI adapts to your child’s mood and progress, learning over time.
 5. Enjoy screen‑free playtime, bedtime stories, and multilingual exploration.
 
 Image:
+
 - ![Zack AI — Blue (smart plush companion)](assets/zackaicolorvariants/blue.png)
 
 ### Design & Safety
+
 - Materials: Child‑safe ABS; soft‑touch silicone
 - Form: Premium, rounded design that looks at home in adult spaces
 - Weight & Size: 345 g; 280 × 240 mm
@@ -106,41 +119,50 @@ Image:
 - Disclaimers: Adult supervision for setup; Internet required for updates; Battery life varies; Content subject to parental approval
 
 Image:
+
 - ![Zack AI — Starlight Grey (smart plush companion)](assets/zackaicolorvariants/starlight-grey.png)
 
 ### Educational Outcomes
+
 - Curriculum‑aligned learning activities
 - Multilingual practice for confidence and fluency
 - Emotion‑aware interactions for social‑emotional development
 - Long‑term memory for adaptive, personalized sessions
 
 Image:
+
 - ![Zack AI — Light Pink (smart plush companion)](assets/zackaicolorvariants/light-pink.png)
 
 ### Privacy Promise
+
 - Local processing emphasis; minimal data collection
 - Transparent privacy settings and parental controls
 - GDPR (RGPD) and COPPA compliant
 - "Parental awareness" summaries instead of surveillance
 
 Image:
+
 - ![Zack AI — Yellow (smart plush companion)](assets/zackaicolorvariants/yellow.png)
 
 ### Manufacturing & Timeline
+
 - Manufacturing: Taiwan (certified facilities)
 - Campaign Duration: 45 days
 - Delivery Timeline: Beginning Nov 20, 2025 (initial shipments)
 
 Image:
+
 - ![Zack AI — Gradient Purple‑Pink (smart plush companion)](assets/zackaicolorvariants/gradient-purple-pink.png)
 
 ### Shipping & Fulfillment (EU/France)
+
 - Regions: Currently available in France and EU only
 - Start Date: Shipping begins November 20, 2025
 - Logistics: EU‑friendly fulfillment; duties/taxes calculated at checkout
 - Future regions: Additional geographies may be announced after campaign — sign up for updates
 
 Image:
+
 - ![Zack AI — All Color Variants (smart plush companion)](assets/zackaicolorvariants/all.png)
 
 ---
@@ -150,10 +172,11 @@ Image:
 - Size & Weight: 280 × 240 mm; 345 g
 - Materials: Child‑safe ABS; soft‑touch silicone; rounded forms
 - Audio: 8V 3W speaker; 5Q3W driving; 32 kHz sampling
-- Connectivity: Wi‑Fi 2.4G (2.4–2.485 GHz); Bluetooth 5.0
+- Connectivity: Wi‑Fi 2.4G (2.4–2.485 GHz)
 - Battery & Firmware: 1400mAh lithium‑ion; ~5 hours to full charge; OTA updates
 
 Image:
+
 - ![Zack AI — All Color Variants (smart plush companion)](assets/zackaicolorvariants/all.png)
 
 ---
@@ -172,6 +195,7 @@ Image:
 - Y a‑t‑il un abonnement ? Aucun abonnement au lancement. Les fonctionnalités principales sont incluses.
 
 Image:
+
 - ![Zack AI — Light Pink (smart plush companion)](assets/zackaicolorvariants/light-pink.png)
 
 ---
@@ -190,6 +214,7 @@ Image:
 - Is there a subscription? No subscriptions at launch. Base product includes core features.
 
 Image:
+
 - ![Zack AI — Blue (smart plush companion)](assets/zackaicolorvariants/blue.png)
 
 ---
@@ -202,6 +227,7 @@ Image:
 - Mitigation: Factory slots reserved; language QA plan in place; weekly updates to backers; contingency buffer for parts and certification re‑runs
 
 Image:
+
 - ![Zack AI — Starlight Grey (smart plush companion)](assets/zackaicolorvariants/starlight-grey.png)
 
 ---
@@ -212,6 +238,7 @@ Image:
 - Content: Factory progress, language QA, compliance milestones, shipping timelines, parent tips, and demo clips
 
 Image:
+
 - ![Zack AI — Yellow (smart plush companion)](assets/zackaicolorvariants/yellow.png)
 
 ---
@@ -221,6 +248,7 @@ Image:
 Use lifestyle scenes: children and parents at home, learning and play; premium environments; privacy and safety callouts.
 
 Image Alt Text Suggestions:
+
 - Blue variant — Alt: "Zack AI — Blue (smart plush companion)"
 - Light Pink variant — Alt: "Zack AI — Light Pink (smart plush companion)"
 - Gradient Purple‑Pink variant — Alt: "Zack AI — Gradient Purple‑Pink (smart plush companion)"
