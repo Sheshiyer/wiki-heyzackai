@@ -101,7 +101,7 @@ Comprehensive checklist to prepare Kickstarter and Shopify pages for Zack AI. Us
 - [ ] Packaging: 25 × 20 × 35 cm (approx. 9.84 × 7.87 × 13.78 in)
 - [ ] Weight: 345 g (approx. 0.76 lb)
 - [ ] Box weight: 8.55 kg (approx. 18.85 lb)
-- [ ] Connectivity: Wi‑Fi 2.4G (2.4–2.485 GHz), Bluetooth
+- [ ] Connectivity: Wi‑Fi 2.4G (2.4–2.485 GHz)
 - [ ] Offline mode and parental controls
 - [ ] Firmware OTA updates noted
 

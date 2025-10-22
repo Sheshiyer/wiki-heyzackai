@@ -19,9 +19,9 @@ Product Overview:
 Technical Specifications:
 - Physical size: 280 × 240 mm (approx. 11.0 × 9.45 in); Weight: 345 g (approx. 0.76 lb)
 - Materials: Child‑safe ABS plastic; soft‑touch silicone; rounded, premium design
-- Connectivity: Wi‑Fi 2.4G (2.4–2.485 GHz); Bluetooth
+- Connectivity: Wi‑Fi 2.4G (2.4–2.485 GHz)
 - Battery: 1400mAh lithium‑ion; Charging: USB; approx. 5 hours to full charge
-- Audio: 8V 3W speaker; 5Q3W driving; 32 kHz sampling
+- Audio: 8V 3W speaker; 5Ω driver impedance; 32 kHz sampling
 - Controls/Indicators: Pairing + Wake buttons; status/power indicator light
 - Firmware: OTA (over‑the‑air) updates
 

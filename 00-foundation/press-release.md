@@ -20,7 +20,7 @@ A smart companion for developing minds. Designed as both an educational and emot
 
 The toy interacts naturally with children—telling stories, offering interactive games, asking follow-up questions, and even adjusting its tone based on a child’s emotions. Over time, Zack AI develops memory-based personality traits, remembering favorite topics, moods, and first names to create a personalized and meaningful connection.
 
-Connectivity includes Wi‑Fi and Bluetooth; multilingual support; voice cloning (with parental consent); and adaptive long‑term memory. Zack defaults to local processing and provides robust parental controls; no third‑party data sharing. Parents can customize its responses and interaction modes via a companion app to ensure a safe, age‑appropriate experience.
+Connectivity includes Wi‑Fi 2.4G (2.4–2.485 GHz); multilingual support; voice cloning (with parental consent); and adaptive long‑term memory. Zack defaults to local processing and provides robust parental controls; no third‑party data sharing. Parents can customize its responses and interaction modes via a companion app to ensure a safe, age‑appropriate experience.
 
 ## Screen-Free Playtime Experience
 

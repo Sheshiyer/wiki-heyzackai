@@ -77,6 +77,24 @@ Comprehensive buyer persona development project for Zack AI, creating detailed m
 - **Verification**: Re-ran full-text search confirming zero occurrences of "Bluetooth 5.0" in visible content and metadata across English and French documentation.
 - **Notes**: All other Bluetooth-related specifications retained. Future updates can specify version once finalized.
 
+## [2025-10-22 13:15] Task Completed: Canonical connectivity set to Wi‑Fi 2.4G only; removed Bluetooth from Zack product docs
+- **Outcome**: Removed all mentions of Bluetooth from Zack AI product specifications and messaging in English and French docs; competitor Bluetooth references retained.
+- **Reason**: Align all content with canonical connectivity (Wi‑Fi 2.4G only).
+- **Files Updated**:
+  - `00-foundation/press-release.md` (Connectivity paragraph)
+  - `02-product-detailing/listing-readiness-checklist.md` (Connectivity checklist)
+  - `05-campaign-messaging/indiegogo-kickstarter-campaign-alex-kim.md` (English and French FAQ; tech specs)
+  - `00-foundation/zack-ai-product-positioning-summary.md` (Connectivity line)
+  - `brand_requirements.yaml` (technical_specs.connectivity)
+  - `prompt-templates/product-description.md` (Technical specs connectivity)
+  - `05-campaign-messaging/zack-ai-product-description.md` (Technical specs connectivity)
+  - `00-foundation/zack-ai-product-guardrails.md` (Connectivity line; Colors list; Change Log)
+- **Method**: Full-text search for "Bluetooth" and targeted edits; re-verified with directory-wide search confirming remaining mentions only in competitor analysis and historical change log context.
+- **Verification**: Re-ran full-text search; zero product-spec references to Bluetooth remain.
+- **Follow-ups**:
+  - Reconfirm currency canonical (USD $199/$99 vs EUR €199/€99) before editing all pricing references.
+  - Verify colors consistency across campaign assets (ensure variant names used consistently).
+
 ## Key Breakthroughs
 
 ### Core Buyer Profile

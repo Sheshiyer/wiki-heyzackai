@@ -48,7 +48,7 @@ Technical Specifications:
 - Materials: Child‑safe ABS plastic, soft‑touch silicone; rounded, secure construction
 - Battery: 1400mAh lithium‑ion
 - Charging: USB; approx. 5 hours to full charge
-- Connectivity: Wi‑Fi 2.4G (2.4–2.485 GHz), Bluetooth
+- Connectivity: Wi‑Fi 2.4G (2.4–2.485 GHz)
 - Audio: 8V 3W; 32 kHz sampling; LED animated eyes
 - Controls: 2 buttons (Pairing and Wake)
 - Firmware: OTA (over‑the‑air) updates

@@ -10,7 +10,7 @@
 - **Category**: Premium AI Educational Companion
 - **Tagline**: "Your Child's First AI Friend"
 - **Price**: MRP $199; Pre-order/Backer Deal $99 (Indiegogo/Kickstarter)
-- **Connectivity**: Wi‑Fi 2.4G (2.4–2.485 GHz), Bluetooth
+- **Connectivity**: Wi‑Fi 2.4G (2.4–2.485 GHz)
 - **Dimensions**: 280 × 240 mm (approx. 11.0 × 9.45 in)
 - **Weight**: 345 g (approx. 0.76 lb)
 - **Packaging**: 25 × 20 × 35 cm (approx. 9.84 × 7.87 × 13.78 in)
@@ -80,19 +80,19 @@
 - **Product Size**: 280 × 240 mm (approx. 11.0 × 9.45 in)
 - **Weight**: 345 g (approx. 0.76 lb)
 - **Materials**: Child-safe ABS plastic, soft-touch silicone
-- **Colors**: Blue, Pink, Green, Purple
+- **Colors**: Blue, Light Pink, Gradient Purple‑Pink, Starlight Grey, Yellow
 - **Form Factor**: Premium cylindrical design with natural material accents
 
 ### **Hardware & Connectivity**
 
 - **Battery**: 1400mAh lithium-ion battery pack
 - **Charging**: USB; approx. 5 hours to full charge
-- **Connectivity**: Wi‑Fi 2.4G (2.4–2.485 GHz),
+- **Connectivity**: Wi‑Fi 2.4G (2.4–2.485 GHz)
 - **Speaker**: 8V 3W;
-- **Speaker driving**: 5Q3W
+- **Speaker driving**: 5Ω driver impedance
 - **Audio Collection**: 32 kHz sampling
 - **Status Light**: Power indicator light (1)
-- **Key/Controls**: 2 button (Pairing and wake up)
+- **Key/Controls**: 2 buttons (Pairing and Wake)
 - **Firmware Upgrade**: OTA (over‑the‑air)
 
 ### **Software Features**
@@ -204,6 +204,7 @@
 - Pre-order/Backer Deal: $99 (Indiegogo/Kickstarter)
 
 Notes:
+
 - Remove all alternative tiers (no Early/Super Early Bird; no Family/Educator packs in base pricing).
 - Bundle/add-on pricing to be defined separately without altering base product price.
 - No subscriptions at launch; all core features included. Institutional inquiries handled case-by-case; no separate licensing pricing at launch.
@@ -540,6 +541,7 @@ Every marketing initiative should include:
 
 ## **Change Log**
 
+- 2025‑10‑22: Canonical connectivity aligned to Wi‑Fi 2.4G only; removed Bluetooth from Zack product specs across docs; updated checklist, press release, positioning summary, prompt template, and campaign FAQ; verified via full‑text search.
 - 2025‑10‑20: Updated master positioning to “screen‑free playtime”; aligned reusable copy blocks, guardrails callouts, press release, buyer persona docs, and Shopify listing/sections.
 - 2025‑10‑20: Replaced “privacy-first” with “privacy and safety controls you manage”; updated primary brand messages, value propositions, hero message, required feature callouts, tags, and competitive positioning.
 - 2025‑10‑19: Added Bluetooth connectivity; inch/pound conversions; normalized languages; updated buy‑box; description languages note; created References/Asset Map and Reusable Copy Blocks; aligned connectivity across assets.
