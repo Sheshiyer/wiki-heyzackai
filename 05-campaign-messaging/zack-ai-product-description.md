@@ -61,7 +61,7 @@ Zack AI is a premium AI educational companion designed for modern families. It d
 - Physical size: 280 × 240 mm (approx. 11.0 × 9.45 in)
 - Weight: 345 g (approx. 0.76 lb)
 - Materials: Child‑safe ABS plastic; soft‑touch silicone
-- Connectivity: Wi‑Fi 2.4G (2.4–2.485 GHz); Bluetooth 5.0
+- Connectivity: Wi‑Fi 2.4G (2.4–2.485 GHz); Bluetooth
 - Battery: 1400mAh lithium‑ion; approx. 5 hours to full charge; USB charging
 - Audio: 8V 3W speaker; 5Q3W driving; 32 kHz audio sampling
 - Controls & Indicators: Pairing and wake buttons; status/power indicator light

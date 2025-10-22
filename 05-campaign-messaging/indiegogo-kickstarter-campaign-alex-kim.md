@@ -189,7 +189,7 @@ Image:
 - Quelles régions peuvent commander ? Actuellement France et UE uniquement. D’autres régions pourront être annoncées après la campagne.
 - Quand commencent les expéditions ? Les premières expéditions débutent le 20 novembre 2025 pour France/UE.
 - Quelles langues sont supportées ? Langues de base + 40+ langues étendues ; voir la documentation pour la liste complète.
-- Quelle connectivité est requise ? Wi‑Fi 2,4 GHz ; Bluetooth 5.0 disponible. Internet requis pour les mises à jour du firmware.
+- Quelle connectivité est requise ? Wi‑Fi 2,4 GHz ; Bluetooth disponible. Internet requis pour les mises à jour du firmware.
 - Les données de mon enfant sont‑elles privées ? Oui. Conception axée sur la confidentialité avec contrôles parentaux ; conformité RGPD/COPPA ; synthèses de sensibilisation parentale (opt‑in).
 - Plusieurs enfants peuvent‑ils utiliser Zack AI ? Oui. Zack AI s’adapte et conserve la progression au fil des sessions.
 - Y a‑t‑il un abonnement ? Aucun abonnement au lancement. Les fonctionnalités principales sont incluses.
@@ -208,7 +208,7 @@ Image:
 - Which regions can order now? Currently France and EU only. Additional regions may be announced after the campaign.
 - When does shipping start? Initial shipments begin November 20, 2025 for France/EU.
 - What languages are supported? Core languages plus 40+ extended languages; see documentation for full coverage.
-- What connectivity is required? Wi‑Fi 2.4G; Bluetooth 5.0 available. Internet required for firmware updates.
+- What connectivity is required? Wi‑Fi 2.4G; Bluetooth available. Internet required for firmware updates.
 - Is my child’s data private? Yes. Privacy and safety controls you manage; local processing by default; no third‑party data sharing; GDPR/COPPA compliant; opt‑in parental awareness summaries.
 - Can multiple children use Zack AI? Yes. Zack AI adapts and maintains progress across sessions.
 - Is there a subscription? No subscriptions at launch. Base product includes core features.
@@ -277,7 +277,7 @@ Use these names in merchandising and copy where appropriate, while keeping image
 - Size & Weight: 280 × 240 mm; 345 g
 - Materials: Child‑safe ABS; soft‑touch silicone; rounded forms
 - Audio: 8V 3W speaker; 5Q3W driving; 32 kHz sampling
-- Connectivity: Wi‑Fi 2.4G (2.4–2.485 GHz); Bluetooth 5.0
+- Connectivity: Wi‑Fi 2.4G (2.4–2.485 GHz); Bluetooth
 - Battery & Firmware: 1400mAh lithium‑ion; ~5 hours to full charge; OTA updates
 
 ---

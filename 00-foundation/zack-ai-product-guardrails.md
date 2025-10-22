@@ -10,7 +10,7 @@
 - **Category**: Premium AI Educational Companion
 - **Tagline**: "Your Child's First AI Friend"
 - **Price**: MRP $199; Pre-order/Backer Deal $99 (Indiegogo/Kickstarter)
-- **Connectivity**: Wi‑Fi 2.4G (2.4–2.485 GHz), Bluetooth 5.0
+- **Connectivity**: Wi‑Fi 2.4G (2.4–2.485 GHz), Bluetooth
 - **Dimensions**: 280 × 240 mm (approx. 11.0 × 9.45 in)
 - **Weight**: 345 g (approx. 0.76 lb)
 - **Packaging**: 25 × 20 × 35 cm (approx. 9.84 × 7.87 × 13.78 in)
@@ -542,7 +542,7 @@ Every marketing initiative should include:
 
 - 2025‑10‑20: Updated master positioning to “screen‑free playtime”; aligned reusable copy blocks, guardrails callouts, press release, buyer persona docs, and Shopify listing/sections.
 - 2025‑10‑20: Replaced “privacy-first” with “privacy and safety controls you manage”; updated primary brand messages, value propositions, hero message, required feature callouts, tags, and competitive positioning.
-- 2025‑10‑19: Added Bluetooth 5.0; inch/pound conversions; normalized languages; updated buy‑box; description languages note; created References/Asset Map and Reusable Copy Blocks; aligned connectivity across assets.
+- 2025‑10‑19: Added Bluetooth connectivity; inch/pound conversions; normalized languages; updated buy‑box; description languages note; created References/Asset Map and Reusable Copy Blocks; aligned connectivity across assets.
 
 ---
 
